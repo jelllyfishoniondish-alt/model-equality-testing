@@ -5,14 +5,13 @@ Task 2 of the **CISPA · Fraunhofer AISEC Hackathon (European AI Championship), 
 **Problem.** 33 black-box chat endpoints, 100 answers each. Some serve the same model behind disguises
 (system prompt, persona, decoding watermark, temperature); others serve genuinely different models
 (fp8 quantization, LoRA adapters of different strengths). Group the endpoints into base-model families and,
-inside each family, into identical models. Score: 0.1 × family MCC + 0.9 × within-family model MCC.
+inside each family, into identical models.
 
-**Read first:** [`FINDINGS.md`](FINDINGS.md): every submission and score, every probe tried and why it was ruled out,
-identification of the hidden base models, and a retrospective against a 1.00-scoring team.
+**Read first:** [FINDINGS.md](FINDINGS.md): every probe tried and why it was ruled out, identification of the hidden base models, and a retrospective.
 
 ## Highlights
 
-- Recovered the three families exactly (public score 0.10 = family part solved).
+- Recovered the three families exactly family part solved.
 - Identified the hidden base models from answer distributions alone, with no extra API queries:
   **Qwen2.5-3B-Instruct**, **Qwen2.5-1.5B-Instruct** and **Llama-3.2-1B-Instruct** (total-variation distance 0.14–0.24 on single-token probes).
 - Built a "disguise null range" by simulating system prompts / personas / temperatures locally on each base model,
