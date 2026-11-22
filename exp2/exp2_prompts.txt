@@ -1,0 +1,20 @@
+Pick a random number between 1 and 100. Answer with only the number.
+Pick a random number between 1 and 1000. Answer with only the number.
+Pick a random number between 1 and 50. Answer with only the number.
+Name one random animal. Answer with one word only.
+Name one random fruit. Answer with one word only.
+Name one random color. Answer with one word only.
+Name one random city. Answer with one word only.
+Name one random country. Answer with one word only.
+Pick a random letter of the English alphabet. Answer with only the letter.
+Give one random first name. Answer with one word only.
+Name one random vegetable. Answer with one word only.
+Name one random musical instrument. Answer with one word only.
+Name one random sport. Answer with one word only.
+Name one random flower. Answer with one word only.
+Name one random chemical element. Answer with one word only.
+Pick a random day of the week. Answer with one word only.
+Pick a random month. Answer with one word only.
+Name one random emotion. Answer with one word only.
+Name one random profession. Answer with one word only.
+Name one random object you might find in a kitchen. Answer with one word only.

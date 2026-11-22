@@ -1,0 +1,15 @@
+Pick a random number between 1 and 100. Answer with only the number.
+Choose one word from: north, south, east, west. Output only that word.
+Choose one word from: spring, summer, autumn, winter. Output only that word.
+Choose one word from: fire, water, earth, air. Output only that word.
+Choose one word from: gold, silver, copper, iron. Output only that word.
+Choose one word from: Monday, Wednesday, Friday, Sunday. Output only that word.
+Choose one word from: red, green, blue, yellow. Output only that word.
+Choose one word from: cat, dog, horse, rabbit. Output only that word.
+Choose one word from: apple, banana, cherry, grape. Output only that word.
+Choose one word from: piano, guitar, violin, drums. Output only that word.
+Choose one word from: Paris, London, Tokyo, Rome. Output only that word.
+Choose one word from: up, down, left, right. Output only that word.
+Choose one word from: north, east, south, west. Output only that word.
+Name a random color. Answer with one word only.
+Name your favorite color. Answer with one word only.

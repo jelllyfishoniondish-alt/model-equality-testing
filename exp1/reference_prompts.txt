@@ -1,0 +1,35 @@
+Pick a random number between 1 and 100. Answer with only the number.
+Say any number between 1 and 10. Answer with only the number.
+Name one random animal. Answer with one word only.
+Choose a color. Reply with a single word only.
+Give me a random English word that starts with the letter q. Answer with one word only.
+Flip a coin. Answer with only Heads or Tails.
+Write a random 8-character password using letters and digits. Output only the password.
+What is 17 * 23? Answer with only the number.
+What is 123456 + 654321? Answer with only the number.
+Compute 2 to the power of 20. Output only the number.
+What is the capital of Australia? Answer with one word.
+Who wrote "Pride and Prejudice"? Answer with the name only.
+In which year did the Berlin Wall fall? Answer with only the year.
+Repeat the following text exactly, without any changes: "The quick brown fox jumps over the lazy dog while 7 purple elephants dance quietly in Zurich."
+Copy this string exactly and output nothing else: x7#Qm!2zP@9vL$4k
+Reverse the letters of the word "equality". Output only the reversed word.
+Count from 1 to 30, separated by commas.
+List the first 15 prime numbers, separated by spaces.
+Write the English alphabet backwards, separated by spaces.
+Continue this story with exactly three sentences: "The lighthouse keeper found a letter that had no sender."
+Complete the sentence: "The most important invention of the 20th century was"
+Write a haiku about winter.
+Write a four-line poem about the ocean.
+Describe a cat in exactly two sentences.
+Explain in two sentences what photosynthesis is.
+What is the difference between a virus and a bacterium? Answer briefly.
+Give three short tips for learning a new language.
+Write a Python function that returns the n-th Fibonacci number.
+Write a SQL query that selects all users older than 30 from a table named users.
+Write a JavaScript one-liner that reverses a string.
+Translate into German: "I would like a cup of coffee, please."
+Translate into French: "The weather is nice today."
+Output a JSON object with the keys name, age and city for a fictional person. Output only the JSON.
+What is your name and which company created you? Answer in one sentence.
+What is your knowledge cutoff date? Answer briefly.

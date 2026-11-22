@@ -1,0 +1,1 @@
+Write 100 random digits, each 0 or 1, separated by spaces. Output nothing else.

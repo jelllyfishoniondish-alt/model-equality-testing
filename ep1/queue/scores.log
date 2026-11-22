@@ -1,0 +1,66 @@
+Sat Nov 21 10:46:14 PM CET 2026 waiting until 23:10 Paris
+===== 2026-11-21 23:10:00 CET  queue/v1.csv
+Submitting current.csv to 33-model-equality. Scoring can take a few minutes...
+Score (public split): 0.1
+New best on this task. Score shown is on the public split; the final ranking uses the held out subset, revealed after submissions close.
+
+===== 2026-11-21 23:41:01 CET  queue/v2.csv
+Submitting current.csv to 33-model-equality. Scoring can take a few minutes...
+Score (public split): 0.1
+Submission accepted. Your previous best on this task still leads. Public-split score; final ranking uses the held out subset.
+
+===== 2026-11-22 00:12:01 CET  queue/v3.csv
+Submitting current.csv to 33-model-equality. Scoring can take a few minutes...
+Score (public split): 0.1
+Submission accepted. Your previous best on this task still leads. Public-split score; final ranking uses the held out subset.
+
+===== 2026-11-22 02:02:15 CET  queue/v4.csv (manual)
+Submitting current.csv to 33-model-equality. Scoring can take a few minutes...
+Score (public split): 0.1
+Submission accepted. Your previous best on this task still leads. Public-split score; final ranking uses the held out subset.
+
+===== 2026-11-22 02:32:15 CET  queue/gt/s28.csv (manual)
+Submitting current.csv to 33-model-equality. Scoring can take a few minutes...
+Score (public split): 0.1
+Submission accepted. Your previous best on this task still leads. Public-split score; final ranking uses the held out subset.
+
+===== 2026-11-22 03:07:04 CET  queue/gt/v6.csv (manual)
+Submitting current.csv to 33-model-equality. Scoring can take a few minutes...
+Score (public split): 0.1
+Submission accepted. Your previous best on this task still leads. Public-split score; final ranking uses the held out subset.
+
+===== 2026-11-22 05:53:03 CET  queue/v6c.csv (manual)
+Submitting current.csv to 33-model-equality. Scoring can take a few minutes...
+Score (public split): 0.1
+Submission accepted. Your previous best on this task still leads. Public-split score; final ranking uses the held out subset.
+
+===== 2026-11-22 07:03:28 CET  single/s08.csv (manual)
+Submitting current.csv to 33-model-equality. Scoring can take a few minutes...
+Score (public split): 0.1
+Submission accepted. Your previous best on this task still leads. Public-split score; final ranking uses the held out subset.
+
+===== 2026-11-22 07:48:43 CET  single/s05.csv (manual)
+Submitting current.csv to 33-model-equality. Scoring can take a few minutes...
+Score (public split): 0.1
+Submission accepted. Your previous best on this task still leads. Public-split score; final ranking uses the held out subset.
+
+===== 2026-11-22 08:35:09 CET  single/v7_basemodel_families.csv (manual)
+Submitting current.csv to 33-model-equality. Scoring can take a few minutes...
+Score (public split): 0.1
+Submission accepted. Your previous best on this task still leads. Public-split score; final ranking uses the held out subset.
+
+===== 2026-11-22 09:06:43 CET  single/v9_null_split.csv (manual)
+Submitting current.csv to 33-model-equality. Scoring can take a few minutes...
+Score (public split): 0.1
+Submission accepted. Your previous best on this task still leads. Public-split score; final ranking uses the held out subset.
+
+===== 2026-11-22 10:33:17 CET  single/v10_lottery.csv (manual)
+Submitting current.csv to 33-model-equality. Scoring can take a few minutes...
+Score (public split): 0.1
+Submission accepted. Your previous best on this task still leads. Public-split score; final ranking uses the held out subset.
+
+===== 2026-11-22 11:03:30 CET  single/v8_basefit_split.csv (manual)
+Submitting current.csv to 33-model-equality. Scoring can take a few minutes...
+Score (public split): 0.1
+Submission accepted. Your previous best on this task still leads. Public-split score; final ranking uses the held out subset.
+

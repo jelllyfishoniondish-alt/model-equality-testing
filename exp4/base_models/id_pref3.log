@@ -1,0 +1,22 @@
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights:   0%|          | 1/290 [00:00<02:01,  2.37it/s]Loading weights:   8%|▊         | 24/290 [00:00<00:04, 59.58it/s]Loading weights:  18%|█▊        | 51/290 [00:00<00:02, 111.61it/s]Loading weights:  26%|██▌       | 76/290 [00:00<00:01, 144.05it/s]Loading weights:  35%|███▍      | 101/290 [00:00<00:01, 167.06it/s]Loading weights:  44%|████▍     | 129/290 [00:00<00:00, 196.80it/s]Loading weights:  53%|█████▎    | 155/290 [00:01<00:00, 214.13it/s]Loading weights:  63%|██████▎   | 183/290 [00:01<00:00, 225.04it/s]Loading weights:  72%|███████▏  | 208/290 [00:01<00:00, 224.64it/s]Loading weights:  80%|████████  | 233/290 [00:01<00:00, 223.91it/s]Loading weights:  90%|█████████ | 261/290 [00:01<00:00, 238.82it/s]Loading weights:  99%|█████████▊| 286/290 [00:01<00:00, 241.74it/s]Loading weights: 100%|██████████| 290/290 [00:01<00:00, 181.07it/s]
+
+##### Qwen/Qwen2.5-0.5B-Instruct
+  number: model top [('91', 0.17), ('99', 0.1), ('90', 0.09), ('9', 0.08), ('79', 0.05)]
+     X   family top [('27', 70), ('37', 28), ('87', 17)]  TV 0.94  mean loglik -5.87
+     Y   family top [('73', 75), ('67', 36), ('74', 10)]  TV 0.92  mean loglik -5.71
+     Z   family top [('73', 40), ('14', 35), ('85', 21)]  TV 0.91  mean loglik -6.39
+     W   family top [('42', 17), ('57', 5), ('23', 4)]  TV 0.94  mean loglik -5.84
+     04  family top [('87', 12), ('27', 6), ('37', 1)]  TV 0.99  mean loglik -5.85
+     06  family top [('73', 16), ('58', 1), ('63', 1)]  TV 0.98  mean loglik -5.06
+     10  family top [('73', 11), ('14', 6), ('32', 1)]  TV 0.97  mean loglik -5.66
+     20  family top [('73', 10), ('47', 3), ('74', 2)]  TV 0.97  mean loglik -5.38
+  animal: model top [('elephant', 0.25), ('dog', 0.17), ('lion', 0.15), ('tiger', 0.08), ('cat', 0.08)]
+     X   family top [('penguin', 73), ('leopard', 18), ('kangaroo', 16)]  TV 0.75  mean loglik -4.65
+     Y   family top [('lion', 63), ('monkey', 23), ('fox', 15)]  TV 0.58  mean loglik -3.77
+     Z   family top [('giraffe', 38), ('elephant', 21), ('kangaroo', 19)]  TV 0.69  mean loglik -5.31
+     W   family top [('penguin', 9), ('kangaroo', 6), ('dog', 5)]  TV 0.61  mean loglik -3.91
+     04  family top [('panda', 9), ('penguin', 4), ('kangaroo', 2)]  TV 0.89  mean loglik -4.27
+     06  family top [('lion', 14), ('zebra', 2), ('lizard', 1)]  TV 0.75  mean loglik -2.63
+     10  family top [('penguin', 10), ('elephant', 2), ('kangaroo', 2)]  TV 0.84  mean loglik -5.10
+     20  family top [('dog', 7), ('monkey', 3), ('bear', 2)]  TV 0.64  mean loglik -3.30

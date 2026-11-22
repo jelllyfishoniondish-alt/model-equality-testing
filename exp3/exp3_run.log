@@ -1,0 +1,20 @@
+started Sat Nov 21 10:48:19 PM CET 2026
+6 short probes + 1 binary probe(s) x 9 ref endpoints x 30 repeats, 4 in parallel
+6 prompts x 9 endpoints x 30 repeats: 0 answers already in exp3_answers.jsonl, 1620 to query
+20/1620 answers (ref-02: 176/1000000 used)
+40/1620 answers (ref-04: 178/1000000 used)
+60/1620 answers (ref-06: 179/1000000 used)
+80/1620 answers (ref-08: 181/1000000 used)
+100/1620 answers (ref-01: 185/1000000 used)
+120/1620 answers (ref-03: 187/1000000 used)
+140/1620 answers (ref-05: 188/1000000 used)
+160/1620 answers (ref-07: 190/1000000 used)
+180/1620 answers (ref-09: 191/1000000 used)
+200/1620 answers (ref-02: 196/1000000 used)
+220/1620 answers (ref-04: 198/1000000 used)
+240/1620 answers (ref-06: 199/1000000 used)
+260/1620 answers (ref-08: 201/1000000 used)
+280/1620 answers (ref-02: 206/1000000 used)
+300/1620 answers (ref-03: 207/1000000 used)
+320/1620 answers (ref-05: 209/1000000 used)
+340/1620 answers (ref-07: 211/1000000 used)

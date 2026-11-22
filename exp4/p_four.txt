@@ -1,0 +1,15 @@
+Pick a random number between 1 and 100. Answer with only the number.
+Pick a random letter of the English alphabet. Answer with only the letter.
+Pick a random even number between 1 and 20. Answer with only the number.
+Name one color. Answer with one word only.
+Name one fruit. Answer with one word only.
+Name one city. Answer with one word only.
+Name one musical instrument. Answer with one word only.
+Name one programming language. Answer with one word only.
+Fill in the blank with one word: "On the windowsill there is a pot of ___." Output only the word.
+Fill in the blank with one word: "Before going out, he picked up his ___." Output only the word.
+Fill in the blank with one word: "For breakfast she usually drinks ___." Output only the word.
+Fill in the blank with one word: "The children played in the ___ all afternoon." Output only the word.
+Choose one word from: fog, rain, snow, wind. Output only that word.
+Choose one word from: circle, square, triangle, star. Output only that word.
+Choose one word from: north, south, east, west. Output only that word.

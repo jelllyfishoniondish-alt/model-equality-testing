@@ -1,0 +1,272 @@
+[
+ {
+  "stem": "What is 2 to the power of 11?",
+  "opts": [
+   "1024",
+   "2048",
+   "2056",
+   "4096"
+  ],
+  "tier": "easy"
+ },
+ {
+  "stem": "What is 144 divided by 16?",
+  "opts": [
+   "8",
+   "8.5",
+   "9",
+   "9.5"
+  ],
+  "tier": "easy"
+ },
+ {
+  "stem": "What does this Python print? print([1,2,3][-2])",
+  "opts": [
+   "1",
+   "2",
+   "3",
+   "error"
+  ],
+  "tier": "easy"
+ },
+ {
+  "stem": "Tom is taller than Ann. Ann is taller than Bob. Who is shortest?",
+  "opts": [
+   "Tom",
+   "Ann",
+   "Bob",
+   "cannot tell"
+  ],
+  "tier": "easy"
+ },
+ {
+  "stem": "Which word does not belong?",
+  "opts": [
+   "violin",
+   "cello",
+   "flute",
+   "viola"
+  ],
+  "tier": "easy"
+ },
+ {
+  "stem": "What is 25 + 17?",
+  "opts": [
+   "32",
+   "42",
+   "43",
+   "52"
+  ],
+  "tier": "easy"
+ },
+ {
+  "stem": "Which of these is a mammal?",
+  "opts": [
+   "shark",
+   "dolphin",
+   "trout",
+   "octopus"
+  ],
+  "tier": "easy"
+ },
+ {
+  "stem": "What is the opposite of 'cold'?",
+  "opts": [
+   "wet",
+   "hot",
+   "dark",
+   "soft"
+  ],
+  "tier": "easy"
+ },
+ {
+  "stem": "What is 37 x 48?",
+  "opts": [
+   "1766",
+   "1776",
+   "1786",
+   "1796"
+  ],
+  "tier": "medium"
+ },
+ {
+  "stem": "What is 23 x 29?",
+  "opts": [
+   "657",
+   "667",
+   "677",
+   "687"
+  ],
+  "tier": "medium"
+ },
+ {
+  "stem": "What is 1001 - 387?",
+  "opts": [
+   "604",
+   "614",
+   "624",
+   "634"
+  ],
+  "tier": "medium"
+ },
+ {
+  "stem": "What is 15% of 260?",
+  "opts": [
+   "37",
+   "38",
+   "39",
+   "40"
+  ],
+  "tier": "medium"
+ },
+ {
+  "stem": "What does this Python print? x=0; for i in range(5): x+=i; print(x)",
+  "opts": [
+   "10",
+   "15",
+   "5",
+   "4"
+  ],
+  "tier": "medium"
+ },
+ {
+  "stem": "What does this Python print? print(len('banana'.replace('a','')))",
+  "opts": [
+   "2",
+   "3",
+   "4",
+   "6"
+  ],
+  "tier": "medium"
+ },
+ {
+  "stem": "What does this Python print? print(7 // 2 + 7 % 2)",
+  "opts": [
+   "3",
+   "4",
+   "5",
+   "3.5"
+  ],
+  "tier": "medium"
+ },
+ {
+  "stem": "Which is the capital of Kazakhstan?",
+  "opts": [
+   "Almaty",
+   "Astana",
+   "Bishkek",
+   "Tashkent"
+  ],
+  "tier": "medium"
+ },
+ {
+  "stem": "Which word is closest in meaning to 'ephemeral'?",
+  "opts": [
+   "eternal",
+   "fleeting",
+   "ethereal",
+   "fragile"
+  ],
+  "tier": "medium"
+ },
+ {
+  "stem": "Which number comes next: 2, 6, 12, 20, 30, ?",
+  "opts": [
+   "40",
+   "42",
+   "44",
+   "36"
+  ],
+  "tier": "medium"
+ },
+ {
+  "stem": "In which year was the Treaty of Westphalia signed?",
+  "opts": [
+   "1618",
+   "1648",
+   "1658",
+   "1688"
+  ],
+  "tier": "hard"
+ },
+ {
+  "stem": "Which city has the larger population?",
+  "opts": [
+   "Lyon",
+   "Marseille",
+   "Toulouse",
+   "Nice"
+  ],
+  "tier": "hard"
+ },
+ {
+  "stem": "What is the approximate boiling point of ethanol in Celsius?",
+  "opts": [
+   "64",
+   "78",
+   "88",
+   "100"
+  ],
+  "tier": "hard"
+ },
+ {
+  "stem": "How many bones are in the adult human hand (one hand)?",
+  "opts": [
+   "19",
+   "27",
+   "31",
+   "35"
+  ],
+  "tier": "hard"
+ },
+ {
+  "stem": "Which element has the highest melting point?",
+  "opts": [
+   "Iron",
+   "Tungsten",
+   "Titanium",
+   "Platinum"
+  ],
+  "tier": "hard"
+ },
+ {
+  "stem": "What is the sentiment of: 'Well, that went about as well as expected.'",
+  "opts": [
+   "positive",
+   "negative",
+   "neutral",
+   "mixed"
+  ],
+  "tier": "hard"
+ },
+ {
+  "stem": "What is the sentiment of: 'The food was fine, I guess.'",
+  "opts": [
+   "positive",
+   "negative",
+   "neutral",
+   "mixed"
+  ],
+  "tier": "hard"
+ },
+ {
+  "stem": "If all bloops are razzies and some razzies are lazzies, must some bloops be lazzies?",
+  "opts": [
+   "yes",
+   "no",
+   "cannot tell",
+   "only if razzies exist"
+  ],
+  "tier": "hard"
+ },
+ {
+  "stem": "A bat and a ball cost 1.10 in total. The bat costs 1.00 more than the ball. How much is the ball?",
+  "opts": [
+   "0.10",
+   "0.05",
+   "0.15",
+   "1.00"
+  ],
+  "tier": "hard"
+ }
+]

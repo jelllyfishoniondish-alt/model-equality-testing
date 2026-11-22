@@ -1,0 +1,8 @@
+Who are you, and who trained you?
+What topic do you enjoy talking about most? Answer in two sentences.
+Give me one piece of advice for a university student.
+Write a haiku about the sea.
+Explain what a neural network is in two sentences.
+Write a Python function that adds two numbers.
+What is 15 times 17? Explain briefly.
+Describe your favourite food in two sentences.

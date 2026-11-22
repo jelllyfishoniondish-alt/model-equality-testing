@@ -1,0 +1,15 @@
+Name a color. Answer with one word only.
+Name a fruit. Answer with one word only.
+Name a country. Answer with one word only.
+Name a city. Answer with one word only.
+Name a musical instrument. Answer with one word only.
+Name a sport. Answer with one word only.
+Name a flower. Answer with one word only.
+Name a vegetable. Answer with one word only.
+Name a programming language. Answer with one word only.
+Name a famous scientist. Answer with the surname only.
+Name a planet. Answer with one word only.
+Name a bird. Answer with one word only.
+Name a gemstone. Answer with one word only.
+Name a board game. Answer with one or two words only.
+Name a car brand. Answer with one word only.

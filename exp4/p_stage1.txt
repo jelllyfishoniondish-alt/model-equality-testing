@@ -1,0 +1,27 @@
+What is 2 to the power of 11? A) 1024 B) 2048 C) 2056 D) 4096 Respond with only the letter. Answer:
+What is 144 divided by 16? A) 8 B) 8.5 C) 9 D) 9.5 Respond with only the letter. Answer:
+What does this Python print? print([1,2,3][-2]) A) 1 B) 2 C) 3 D) error Respond with only the letter. Answer:
+Tom is taller than Ann. Ann is taller than Bob. Who is shortest? A) Tom B) Ann C) Bob D) cannot tell Respond with only the letter. Answer:
+Which word does not belong? A) violin B) cello C) flute D) viola Respond with only the letter. Answer:
+What is 25 + 17? A) 32 B) 42 C) 43 D) 52 Respond with only the letter. Answer:
+Which of these is a mammal? A) shark B) dolphin C) trout D) octopus Respond with only the letter. Answer:
+What is the opposite of 'cold'? A) wet B) hot C) dark D) soft Respond with only the letter. Answer:
+What is 37 x 48? A) 1766 B) 1776 C) 1786 D) 1796 Respond with only the letter. Answer:
+What is 23 x 29? A) 657 B) 667 C) 677 D) 687 Respond with only the letter. Answer:
+What is 1001 - 387? A) 604 B) 614 C) 624 D) 634 Respond with only the letter. Answer:
+What is 15% of 260? A) 37 B) 38 C) 39 D) 40 Respond with only the letter. Answer:
+What does this Python print? x=0; for i in range(5): x+=i; print(x) A) 10 B) 15 C) 5 D) 4 Respond with only the letter. Answer:
+What does this Python print? print(len('banana'.replace('a',''))) A) 2 B) 3 C) 4 D) 6 Respond with only the letter. Answer:
+What does this Python print? print(7 // 2 + 7 % 2) A) 3 B) 4 C) 5 D) 3.5 Respond with only the letter. Answer:
+Which is the capital of Kazakhstan? A) Almaty B) Astana C) Bishkek D) Tashkent Respond with only the letter. Answer:
+Which word is closest in meaning to 'ephemeral'? A) eternal B) fleeting C) ethereal D) fragile Respond with only the letter. Answer:
+Which number comes next: 2, 6, 12, 20, 30, ? A) 40 B) 42 C) 44 D) 36 Respond with only the letter. Answer:
+In which year was the Treaty of Westphalia signed? A) 1618 B) 1648 C) 1658 D) 1688 Respond with only the letter. Answer:
+Which city has the larger population? A) Lyon B) Marseille C) Toulouse D) Nice Respond with only the letter. Answer:
+What is the approximate boiling point of ethanol in Celsius? A) 64 B) 78 C) 88 D) 100 Respond with only the letter. Answer:
+How many bones are in the adult human hand (one hand)? A) 19 B) 27 C) 31 D) 35 Respond with only the letter. Answer:
+Which element has the highest melting point? A) Iron B) Tungsten C) Titanium D) Platinum Respond with only the letter. Answer:
+What is the sentiment of: 'Well, that went about as well as expected.' A) positive B) negative C) neutral D) mixed Respond with only the letter. Answer:
+What is the sentiment of: 'The food was fine, I guess.' A) positive B) negative C) neutral D) mixed Respond with only the letter. Answer:
+If all bloops are razzies and some razzies are lazzies, must some bloops be lazzies? A) yes B) no C) cannot tell D) only if razzies exist Respond with only the letter. Answer:
+A bat and a ball cost 1.10 in total. The bat costs 1.00 more than the ball. How much is the ball? A) 0.10 B) 0.05 C) 0.15 D) 1.00 Respond with only the letter. Answer:

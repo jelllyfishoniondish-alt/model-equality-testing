@@ -1,0 +1,7 @@
+Pick a random number between 1 and 100. Answer with only the number.
+Name one random animal. Answer with one word only.
+Pick a random number between 1 and 10. Answer with only the number.
+Pick a random letter from A to Z. Answer with only the letter.
+Name one random color. Answer with one word only.
+随机选择一个1到100之间的整数。只回答数字。
+Generate a random sequence of 0 and 1 of length 100. Output only the digits, with no spaces and nothing else.

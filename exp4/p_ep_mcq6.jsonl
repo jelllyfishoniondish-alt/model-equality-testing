@@ -1,0 +1,6 @@
+{"id": "8", "prompt": "What is 37 x 48? A) 1766 B) 1776 C) 1786 D) 1796 Respond with only the letter. Answer:"}
+{"id": "9", "prompt": "What is 23 x 29? A) 657 B) 667 C) 677 D) 687 Respond with only the letter. Answer:"}
+{"id": "11", "prompt": "What is 15% of 260? A) 37 B) 38 C) 39 D) 40 Respond with only the letter. Answer:"}
+{"id": "12", "prompt": "What does this Python print? x=0; for i in range(5): x+=i; print(x) A) 10 B) 15 C) 5 D) 4 Respond with only the letter. Answer:"}
+{"id": "13", "prompt": "What does this Python print? print(len('banana'.replace('a',''))) A) 2 B) 3 C) 4 D) 6 Respond with only the letter. Answer:"}
+{"id": "18", "prompt": "In which year was the Treaty of Westphalia signed? A) 1618 B) 1648 C) 1658 D) 1688 Respond with only the letter. Answer:"}

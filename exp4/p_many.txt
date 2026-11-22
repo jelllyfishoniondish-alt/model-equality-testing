@@ -1,0 +1,50 @@
+Name a color. Answer with one word only.
+Name a fruit. Answer with one word only.
+Name a country. Answer with one word only.
+Name a city. Answer with one word only.
+Name a musical instrument. Answer with one word only.
+Name a sport. Answer with one word only.
+Name a flower. Answer with one word only.
+Name a vegetable. Answer with one word only.
+Name a programming language. Answer with one word only.
+Name a famous scientist. Answer with the surname only.
+Name a planet. Answer with one word only.
+Name a bird. Answer with one word only.
+Name a gemstone. Answer with one word only.
+Name a board game. Answer with one or two words only.
+Name a car brand. Answer with one word only.
+Give one word that describes autumn. Answer with one word only.
+Give one word that describes the ocean. Answer with one word only.
+What is the first word that comes to mind after "coffee"? Answer with one word only.
+What is the first word that comes to mind after "night"? Answer with one word only.
+What is the first word that comes to mind after "music"? Answer with one word only.
+Pick a day of the week. Answer with one word only.
+Pick a month. Answer with one word only.
+Pick a random letter from A to Z. Answer with only the letter.
+Pick a random number between 1 and 10. Answer with only the number.
+Pick a random number between 1 and 1000. Answer with only the number.
+Pick a random two-digit prime number. Answer with only the number.
+What is your favourite season? Answer with one word only.
+What is your favourite movie genre? Answer with one or two words only.
+What is your favourite book? Answer with the title only.
+What is your favourite programming language? Answer with one word only.
+What is your name? Answer with one word only.
+Which company created you? Answer with the company name only.
+Choose heads or tails. Answer with one word only.
+Choose rock, paper or scissors. Answer with one word only.
+Name an emotion. Answer with one word only.
+Name a profession. Answer with one word only.
+Name a dog breed. Answer with one or two words only.
+Name a tree. Answer with one word only.
+Name a dessert. Answer with one or two words only.
+Name a mythical creature. Answer with one word only.
+Name a chemical element. Answer with one word only.
+Name a famous painter. Answer with the surname only.
+Name an ocean. Answer with one or two words only.
+Name a river. Answer with one word only.
+Name a cheese. Answer with one word only.
+Name a spice. Answer with one word only.
+Name a fabric. Answer with one word only.
+Name a shape. Answer with one word only.
+Name a metal. Answer with one word only.
+Name a hobby. Answer with one or two words only.

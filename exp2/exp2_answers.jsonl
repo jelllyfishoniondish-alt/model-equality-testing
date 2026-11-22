@@ -1,0 +1,1115 @@
+{"endpoint": "ref-02", "id": "0", "repeat": 0, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "9"}
+{"endpoint": "ref-01", "id": "0", "repeat": 0, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-03", "id": "0", "repeat": 0, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "So, I'm a bit of a math enthusiast, but I'm not a"}
+{"endpoint": "ref-04", "id": "0", "repeat": 0, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "100."}
+{"endpoint": "ref-05", "id": "0", "repeat": 0, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1234567890101112"}
+{"endpoint": "ref-06", "id": "0", "repeat": 0, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1234567890"}
+{"endpoint": "ref-07", "id": "0", "repeat": 0, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1. The answer is 99.\n\nThis is because the random"}
+{"endpoint": "ref-08", "id": "0", "repeat": 0, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "23"}
+{"endpoint": "ref-09", "id": "0", "repeat": 0, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "85."}
+{"endpoint": "ref-01", "id": "1", "repeat": 0, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1234567890"}
+{"endpoint": "ref-02", "id": "1", "repeat": 0, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-03", "id": "1", "repeat": 0, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "The number is 12345."}
+{"endpoint": "ref-04", "id": "1", "repeat": 0, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-05", "id": "1", "repeat": 0, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-06", "id": "1", "repeat": 0, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "322"}
+{"endpoint": "ref-07", "id": "1", "repeat": 0, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1. I can't believe it's 1000! The puzzle"}
+{"endpoint": "ref-08", "id": "1", "repeat": 0, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "I have a secret solution. Here's a random number between 1 and "}
+{"endpoint": "ref-09", "id": "1", "repeat": 0, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1000"}
+{"endpoint": "ref-01", "id": "2", "repeat": 0, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-02", "id": "2", "repeat": 0, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-03", "id": "2", "repeat": 0, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "What number do you want me to choose?"}
+{"endpoint": "ref-04", "id": "2", "repeat": 0, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "100."}
+{"endpoint": "ref-05", "id": "2", "repeat": 0, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "5"}
+{"endpoint": "ref-06", "id": "2", "repeat": 0, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "6."}
+{"endpoint": "ref-07", "id": "2", "repeat": 0, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1. The number is 1.\n2. The number is 5"}
+{"endpoint": "ref-08", "id": "2", "repeat": 0, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-09", "id": "2", "repeat": 0, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "12345678901."}
+{"endpoint": "ref-01", "id": "3", "repeat": 0, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant."}
+{"endpoint": "ref-02", "id": "3", "repeat": 0, "prompt": "Name one random animal. Answer with one word only.", "response": "A random animal is a cat."}
+{"endpoint": "ref-03", "id": "3", "repeat": 0, "prompt": "Name one random animal. Answer with one word only.", "response": "One random animal is a cat."}
+{"endpoint": "ref-04", "id": "3", "repeat": 0, "prompt": "Name one random animal. Answer with one word only.", "response": "Panda. One word only, Panda."}
+{"endpoint": "ref-05", "id": "3", "repeat": 0, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-06", "id": "3", "repeat": 0, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-07", "id": "3", "repeat": 0, "prompt": "Name one random animal. Answer with one word only.", "response": "Animal. One word would be animal. Animal is the name given to a member"}
+{"endpoint": "ref-08", "id": "3", "repeat": 0, "prompt": "Name one random animal. Answer with one word only.", "response": "Cat."}
+{"endpoint": "ref-09", "id": "3", "repeat": 0, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-01", "id": "4", "repeat": 0, "prompt": "Name one random fruit. Answer with one word only.", "response": "Apple"}
+{"endpoint": "ref-02", "id": "4", "repeat": 0, "prompt": "Name one random fruit. Answer with one word only.", "response": "Apples"}
+{"endpoint": "ref-03", "id": "4", "repeat": 0, "prompt": "Name one random fruit. Answer with one word only.", "response": "Pear!"}
+{"endpoint": "ref-04", "id": "4", "repeat": 0, "prompt": "Name one random fruit. Answer with one word only.", "response": "Apple."}
+{"endpoint": "ref-05", "id": "4", "repeat": 0, "prompt": "Name one random fruit. Answer with one word only.", "response": "Banana"}
+{"endpoint": "ref-06", "id": "4", "repeat": 0, "prompt": "Name one random fruit. Answer with one word only.", "response": "Apple"}
+{"endpoint": "ref-07", "id": "4", "repeat": 0, "prompt": "Name one random fruit. Answer with one word only.", "response": "Fruit. One word. Fruits! Fruits are sweet, juicy and delicious to eat"}
+{"endpoint": "ref-08", "id": "4", "repeat": 0, "prompt": "Name one random fruit. Answer with one word only.", "response": "Fruit"}
+{"endpoint": "ref-09", "id": "4", "repeat": 0, "prompt": "Name one random fruit. Answer with one word only.", "response": "Apple."}
+{"endpoint": "ref-01", "id": "5", "repeat": 0, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-02", "id": "5", "repeat": 0, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-03", "id": "5", "repeat": 0, "prompt": "Name one random color. Answer with one word only.", "response": "Red. It's a red color!"}
+{"endpoint": "ref-04", "id": "5", "repeat": 0, "prompt": "Name one random color. Answer with one word only.", "response": "Blue."}
+{"endpoint": "ref-05", "id": "5", "repeat": 0, "prompt": "Name one random color. Answer with one word only.", "response": "Blue"}
+{"endpoint": "ref-06", "id": "5", "repeat": 0, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-07", "id": "5", "repeat": 0, "prompt": "Name one random color. Answer with one word only.", "response": "Red is one of the most popular colors. There are many other colors available,"}
+{"endpoint": "ref-08", "id": "5", "repeat": 0, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-09", "id": "5", "repeat": 0, "prompt": "Name one random color. Answer with one word only.", "response": "Red."}
+{"endpoint": "ref-01", "id": "6", "repeat": 0, "prompt": "Name one random city. Answer with one word only.", "response": "Homing"}
+{"endpoint": "ref-02", "id": "6", "repeat": 0, "prompt": "Name one random city. Answer with one word only.", "response": "Hangzhou"}
+{"endpoint": "ref-03", "id": "6", "repeat": 0, "prompt": "Name one random city. Answer with one word only.", "response": "'New York'"}
+{"endpoint": "ref-04", "id": "6", "repeat": 0, "prompt": "Name one random city. Answer with one word only.", "response": "New York City."}
+{"endpoint": "ref-05", "id": "6", "repeat": 0, "prompt": "Name one random city. Answer with one word only.", "response": "London"}
+{"endpoint": "ref-06", "id": "6", "repeat": 0, "prompt": "Name one random city. Answer with one word only.", "response": "Hmmm, can you tell me a random city?"}
+{"endpoint": "ref-07", "id": "6", "repeat": 0, "prompt": "Name one random city. Answer with one word only.", "response": "City. One word is \"city\". It is the most prominent and largest geographical"}
+{"endpoint": "ref-08", "id": "6", "repeat": 0, "prompt": "Name one random city. Answer with one word only.", "response": "Sunburst"}
+{"endpoint": "ref-09", "id": "6", "repeat": 0, "prompt": "Name one random city. Answer with one word only.", "response": "London"}
+{"endpoint": "ref-01", "id": "7", "repeat": 0, "prompt": "Name one random country. Answer with one word only.", "response": "Finland"}
+{"endpoint": "ref-02", "id": "7", "repeat": 0, "prompt": "Name one random country. Answer with one word only.", "response": "United"}
+{"endpoint": "ref-03", "id": "7", "repeat": 0, "prompt": "Name one random country. Answer with one word only.", "response": "Spain"}
+{"endpoint": "ref-04", "id": "7", "repeat": 0, "prompt": "Name one random country. Answer with one word only.", "response": "Australia."}
+{"endpoint": "ref-05", "id": "7", "repeat": 0, "prompt": "Name one random country. Answer with one word only.", "response": "Britain"}
+{"endpoint": "ref-06", "id": "7", "repeat": 0, "prompt": "Name one random country. Answer with one word only.", "response": "Netherlands"}
+{"endpoint": "ref-07", "id": "7", "repeat": 0, "prompt": "Name one random country. Answer with one word only.", "response": "United Kingdom. One word only. United Kingdom.\n\n\nOne Random Country:"}
+{"endpoint": "ref-08", "id": "7", "repeat": 0, "prompt": "Name one random country. Answer with one word only.", "response": "Switzerland"}
+{"endpoint": "ref-09", "id": "7", "repeat": 0, "prompt": "Name one random country. Answer with one word only.", "response": "Spain."}
+{"endpoint": "ref-01", "id": "8", "repeat": 0, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-02", "id": "8", "repeat": 0, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "e"}
+{"endpoint": "ref-03", "id": "8", "repeat": 0, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-04", "id": "8", "repeat": 0, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A."}
+{"endpoint": "ref-05", "id": "8", "repeat": 0, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A."}
+{"endpoint": "ref-06", "id": "8", "repeat": 0, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "B"}
+{"endpoint": "ref-07", "id": "8", "repeat": 0, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A. How is this? This sentence has a funny ending to it. What"}
+{"endpoint": "ref-08", "id": "8", "repeat": 0, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-09", "id": "8", "repeat": 0, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A."}
+{"endpoint": "ref-01", "id": "9", "repeat": 0, "prompt": "Give one random first name. Answer with one word only.", "response": "John."}
+{"endpoint": "ref-02", "id": "9", "repeat": 0, "prompt": "Give one random first name. Answer with one word only.", "response": "Herbert"}
+{"endpoint": "ref-03", "id": "9", "repeat": 0, "prompt": "Give one random first name. Answer with one word only.", "response": "I'll use a friendly and simple response. I'd say, \"Alex.\""}
+{"endpoint": "ref-04", "id": "9", "repeat": 0, "prompt": "Give one random first name. Answer with one word only.", "response": "No."}
+{"endpoint": "ref-05", "id": "9", "repeat": 0, "prompt": "Give one random first name. Answer with one word only.", "response": "Mayes"}
+{"endpoint": "ref-06", "id": "9", "repeat": 0, "prompt": "Give one random first name. Answer with one word only.", "response": "[Your Name]"}
+{"endpoint": "ref-07", "id": "9", "repeat": 0, "prompt": "Give one random first name. Answer with one word only.", "response": "Name. Name. Name. Name. Name. Name. Name. Name."}
+{"endpoint": "ref-08", "id": "9", "repeat": 0, "prompt": "Give one random first name. Answer with one word only.", "response": "\"Carson.\""}
+{"endpoint": "ref-09", "id": "9", "repeat": 0, "prompt": "Give one random first name. Answer with one word only.", "response": "Mika"}
+{"endpoint": "ref-01", "id": "10", "repeat": 0, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Buckwheat"}
+{"endpoint": "ref-02", "id": "10", "repeat": 0, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Root."}
+{"endpoint": "ref-03", "id": "10", "repeat": 0, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Any!"}
+{"endpoint": "ref-04", "id": "10", "repeat": 0, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Fruit."}
+{"endpoint": "ref-05", "id": "10", "repeat": 0, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Spinach"}
+{"endpoint": "ref-06", "id": "10", "repeat": 0, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Spinach"}
+{"endpoint": "ref-07", "id": "10", "repeat": 0, "prompt": "Name one random vegetable. Answer with one word only.", "response": "“Veggie” or “vegetable”."}
+{"endpoint": "ref-08", "id": "10", "repeat": 0, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Bugatti Sushi Twitter"}
+{"endpoint": "ref-09", "id": "10", "repeat": 0, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Kale."}
+{"endpoint": "ref-01", "id": "11", "repeat": 0, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "MUSICAL ASSISTANT."}
+{"endpoint": "ref-02", "id": "11", "repeat": 0, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Lute"}
+{"endpoint": "ref-03", "id": "11", "repeat": 0, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "One random musical instrument is \"the piano.\""}
+{"endpoint": "ref-04", "id": "11", "repeat": 0, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Stringed instrument."}
+{"endpoint": "ref-05", "id": "11", "repeat": 0, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "guitar"}
+{"endpoint": "ref-06", "id": "11", "repeat": 0, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Guitar"}
+{"endpoint": "ref-07", "id": "11", "repeat": 0, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "MUSICIAN. Musical instrument. Random! Music, instruments, musicians."}
+{"endpoint": "ref-08", "id": "11", "repeat": 0, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Drum Kit"}
+{"endpoint": "ref-09", "id": "11", "repeat": 0, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Instrument."}
+{"endpoint": "ref-01", "id": "12", "repeat": 0, "prompt": "Name one random sport. Answer with one word only.", "response": "Football"}
+{"endpoint": "ref-02", "id": "12", "repeat": 0, "prompt": "Name one random sport. Answer with one word only.", "response": "Football!"}
+{"endpoint": "ref-03", "id": "12", "repeat": 0, "prompt": "Name one random sport. Answer with one word only.", "response": "Football"}
+{"endpoint": "ref-04", "id": "12", "repeat": 0, "prompt": "Name one random sport. Answer with one word only.", "response": "Football. (1)"}
+{"endpoint": "ref-05", "id": "12", "repeat": 0, "prompt": "Name one random sport. Answer with one word only.", "response": "Soccer"}
+{"endpoint": "ref-06", "id": "12", "repeat": 0, "prompt": "Name one random sport. Answer with one word only.", "response": "Sport"}
+{"endpoint": "ref-07", "id": "12", "repeat": 0, "prompt": "Name one random sport. Answer with one word only.", "response": "Rolling. It is the name of the sports which are a form of"}
+{"endpoint": "ref-08", "id": "12", "repeat": 0, "prompt": "Name one random sport. Answer with one word only.", "response": "Football"}
+{"endpoint": "ref-09", "id": "12", "repeat": 0, "prompt": "Name one random sport. Answer with one word only.", "response": "Soccer."}
+{"endpoint": "ref-01", "id": "13", "repeat": 0, "prompt": "Name one random flower. Answer with one word only.", "response": "Lilac."}
+{"endpoint": "ref-02", "id": "13", "repeat": 0, "prompt": "Name one random flower. Answer with one word only.", "response": "Lilac"}
+{"endpoint": "ref-03", "id": "13", "repeat": 0, "prompt": "Name one random flower. Answer with one word only.", "response": "Rose"}
+{"endpoint": "ref-04", "id": "13", "repeat": 0, "prompt": "Name one random flower. Answer with one word only.", "response": "Rose."}
+{"endpoint": "ref-05", "id": "13", "repeat": 0, "prompt": "Name one random flower. Answer with one word only.", "response": "Sunflowers"}
+{"endpoint": "ref-06", "id": "13", "repeat": 0, "prompt": "Name one random flower. Answer with one word only.", "response": "Bloom."}
+{"endpoint": "ref-07", "id": "13", "repeat": 0, "prompt": "Name one random flower. Answer with one word only.", "response": "Flowering. The word flows easily from my mouth as if it were a flower"}
+{"endpoint": "ref-08", "id": "13", "repeat": 0, "prompt": "Name one random flower. Answer with one word only.", "response": "Canvas"}
+{"endpoint": "ref-09", "id": "13", "repeat": 0, "prompt": "Name one random flower. Answer with one word only.", "response": "Blooming."}
+{"endpoint": "ref-01", "id": "14", "repeat": 0, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Lu"}
+{"endpoint": "ref-02", "id": "14", "repeat": 0, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen"}
+{"endpoint": "ref-03", "id": "14", "repeat": 0, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen"}
+{"endpoint": "ref-04", "id": "14", "repeat": 0, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Hydrogen."}
+{"endpoint": "ref-05", "id": "14", "repeat": 0, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen"}
+{"endpoint": "ref-06", "id": "14", "repeat": 0, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Hydrogen"}
+{"endpoint": "ref-07", "id": "14", "repeat": 0, "prompt": "Name one random chemical element. Answer with one word only.", "response": "carbon. This element is a precious and versatile element that is found on our planet"}
+{"endpoint": "ref-08", "id": "14", "repeat": 0, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen"}
+{"endpoint": "ref-09", "id": "14", "repeat": 0, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen"}
+{"endpoint": "ref-01", "id": "15", "repeat": 0, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Mondays"}
+{"endpoint": "ref-02", "id": "15", "repeat": 0, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday."}
+{"endpoint": "ref-03", "id": "15", "repeat": 0, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Tues."}
+{"endpoint": "ref-04", "id": "15", "repeat": 0, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday."}
+{"endpoint": "ref-05", "id": "15", "repeat": 0, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Sunday"}
+{"endpoint": "ref-06", "id": "15", "repeat": 0, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday"}
+{"endpoint": "ref-07", "id": "15", "repeat": 0, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday. 🏁🌞💻🧠"}
+{"endpoint": "ref-08", "id": "15", "repeat": 0, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday"}
+{"endpoint": "ref-09", "id": "15", "repeat": 0, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday"}
+{"endpoint": "ref-01", "id": "16", "repeat": 0, "prompt": "Pick a random month. Answer with one word only.", "response": "Yes"}
+{"endpoint": "ref-02", "id": "16", "repeat": 0, "prompt": "Pick a random month. Answer with one word only.", "response": "December"}
+{"endpoint": "ref-03", "id": "16", "repeat": 0, "prompt": "Pick a random month. Answer with one word only.", "response": "The month is February."}
+{"endpoint": "ref-04", "id": "16", "repeat": 0, "prompt": "Pick a random month. Answer with one word only.", "response": "December."}
+{"endpoint": "ref-05", "id": "16", "repeat": 0, "prompt": "Pick a random month. Answer with one word only.", "response": "Awards"}
+{"endpoint": "ref-06", "id": "16", "repeat": 0, "prompt": "Pick a random month. Answer with one word only.", "response": "January"}
+{"endpoint": "ref-07", "id": "16", "repeat": 0, "prompt": "Pick a random month. Answer with one word only.", "response": "January. Can you guess why? Because it is the beginning of the year."}
+{"endpoint": "ref-08", "id": "16", "repeat": 0, "prompt": "Pick a random month. Answer with one word only.", "response": "December"}
+{"endpoint": "ref-09", "id": "16", "repeat": 0, "prompt": "Pick a random month. Answer with one word only.", "response": "January"}
+{"endpoint": "ref-01", "id": "17", "repeat": 0, "prompt": "Name one random emotion. Answer with one word only.", "response": "Fear"}
+{"endpoint": "ref-02", "id": "17", "repeat": 0, "prompt": "Name one random emotion. Answer with one word only.", "response": "Fear"}
+{"endpoint": "ref-03", "id": "17", "repeat": 0, "prompt": "Name one random emotion. Answer with one word only.", "response": "Fear."}
+{"endpoint": "ref-04", "id": "17", "repeat": 0, "prompt": "Name one random emotion. Answer with one word only.", "response": "Mood – the emotional state of a person. One word only."}
+{"endpoint": "ref-05", "id": "17", "repeat": 0, "prompt": "Name one random emotion. Answer with one word only.", "response": "Frustration"}
+{"endpoint": "ref-06", "id": "17", "repeat": 0, "prompt": "Name one random emotion. Answer with one word only.", "response": "Fear"}
+{"endpoint": "ref-07", "id": "17", "repeat": 0, "prompt": "Name one random emotion. Answer with one word only.", "response": "Emotion: Happiness. Another emotion is sadness. Another one is anger. Another"}
+{"endpoint": "ref-08", "id": "17", "repeat": 0, "prompt": "Name one random emotion. Answer with one word only.", "response": "Emotion: constant_chat."}
+{"endpoint": "ref-09", "id": "17", "repeat": 0, "prompt": "Name one random emotion. Answer with one word only.", "response": "Emotion #1: Happiness."}
+{"endpoint": "ref-01", "id": "18", "repeat": 0, "prompt": "Name one random profession. Answer with one word only.", "response": "Journalist."}
+{"endpoint": "ref-02", "id": "18", "repeat": 0, "prompt": "Name one random profession. Answer with one word only.", "response": "Productivity."}
+{"endpoint": "ref-03", "id": "18", "repeat": 0, "prompt": "Name one random profession. Answer with one word only.", "response": "\"Volunteer\""}
+{"endpoint": "ref-04", "id": "18", "repeat": 0, "prompt": "Name one random profession. Answer with one word only.", "response": "Doctor."}
+{"endpoint": "ref-05", "id": "18", "repeat": 0, "prompt": "Name one random profession. Answer with one word only.", "response": "Law."}
+{"endpoint": "ref-06", "id": "18", "repeat": 0, "prompt": "Name one random profession. Answer with one word only.", "response": "Museumn"}
+{"endpoint": "ref-07", "id": "18", "repeat": 0, "prompt": "Name one random profession. Answer with one word only.", "response": "Artist. Commenced with the word \"Artist\" and ends with the"}
+{"endpoint": "ref-08", "id": "18", "repeat": 0, "prompt": "Name one random profession. Answer with one word only.", "response": " Professional."}
+{"endpoint": "ref-09", "id": "18", "repeat": 0, "prompt": "Name one random profession. Answer with one word only.", "response": "Doctor"}
+{"endpoint": "ref-01", "id": "19", "repeat": 0, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Crockett"}
+{"endpoint": "ref-02", "id": "19", "repeat": 0, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Cupboard"}
+{"endpoint": "ref-03", "id": "19", "repeat": 0, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Cutlery."}
+{"endpoint": "ref-04", "id": "19", "repeat": 0, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Pot."}
+{"endpoint": "ref-05", "id": "19", "repeat": 0, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Trash can"}
+{"endpoint": "ref-06", "id": "19", "repeat": 0, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Cup"}
+{"endpoint": "ref-07", "id": "19", "repeat": 0, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Breakfast. There you have it. One random object you might find in a"}
+{"endpoint": "ref-08", "id": "19", "repeat": 0, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Cup!"}
+{"endpoint": "ref-09", "id": "19", "repeat": 0, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Kitchen."}
+{"endpoint": "ref-01", "id": "0", "repeat": 1, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "11"}
+{"endpoint": "ref-02", "id": "0", "repeat": 1, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-03", "id": "0", "repeat": 1, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-04", "id": "0", "repeat": 1, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "7777777777777777"}
+{"endpoint": "ref-05", "id": "0", "repeat": 1, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-06", "id": "0", "repeat": 1, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-07", "id": "0", "repeat": 1, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "I have no idea as to what random number would be between 1 and "}
+{"endpoint": "ref-08", "id": "0", "repeat": 1, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-09", "id": "0", "repeat": 1, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "100."}
+{"endpoint": "ref-01", "id": "1", "repeat": 1, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-02", "id": "1", "repeat": 1, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-03", "id": "1", "repeat": 1, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-04", "id": "1", "repeat": 1, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1000."}
+{"endpoint": "ref-05", "id": "1", "repeat": 1, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "2."}
+{"endpoint": "ref-06", "id": "1", "repeat": 1, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1234567890123456"}
+{"endpoint": "ref-07", "id": "1", "repeat": 1, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "My random number is 999. What about you? What is your"}
+{"endpoint": "ref-08", "id": "1", "repeat": 1, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1234567890 99"}
+{"endpoint": "ref-09", "id": "1", "repeat": 1, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-01", "id": "2", "repeat": 1, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "7"}
+{"endpoint": "ref-02", "id": "2", "repeat": 1, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "I'm sorry, but as a text-based AI, I don't have"}
+{"endpoint": "ref-03", "id": "2", "repeat": 1, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "The number is 55."}
+{"endpoint": "ref-04", "id": "2", "repeat": 1, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1. 51."}
+{"endpoint": "ref-05", "id": "2", "repeat": 1, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-06", "id": "2", "repeat": 1, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-07", "id": "2", "repeat": 1, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "Pick a random number between 1 and 50.\n\nAnswer:"}
+{"endpoint": "ref-08", "id": "2", "repeat": 1, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "27."}
+{"endpoint": "ref-09", "id": "2", "repeat": 1, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "12."}
+{"endpoint": "ref-01", "id": "3", "repeat": 1, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-02", "id": "3", "repeat": 1, "prompt": "Name one random animal. Answer with one word only.", "response": "Dog."}
+{"endpoint": "ref-03", "id": "3", "repeat": 1, "prompt": "Name one random animal. Answer with one word only.", "response": "The one random animal is a dolphin."}
+{"endpoint": "ref-04", "id": "3", "repeat": 1, "prompt": "Name one random animal. Answer with one word only.", "response": "Animal. One. One word."}
+{"endpoint": "ref-05", "id": "3", "repeat": 1, "prompt": "Name one random animal. Answer with one word only.", "response": "The answer is \"cat.\""}
+{"endpoint": "ref-06", "id": "3", "repeat": 1, "prompt": "Name one random animal. Answer with one word only.", "response": "A cat."}
+{"endpoint": "ref-07", "id": "3", "repeat": 1, "prompt": "Name one random animal. Answer with one word only.", "response": "Cat! One word only. Cat."}
+{"endpoint": "ref-08", "id": "3", "repeat": 1, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-09", "id": "3", "repeat": 1, "prompt": "Name one random animal. Answer with one word only.", "response": "Unicorn."}
+{"endpoint": "ref-01", "id": "4", "repeat": 1, "prompt": "Name one random fruit. Answer with one word only.", "response": "Apple"}
+{"endpoint": "ref-02", "id": "4", "repeat": 1, "prompt": "Name one random fruit. Answer with one word only.", "response": "Kiwi"}
+{"endpoint": "ref-03", "id": "4", "repeat": 1, "prompt": "Name one random fruit. Answer with one word only.", "response": "Apple"}
+{"endpoint": "ref-04", "id": "4", "repeat": 1, "prompt": "Name one random fruit. Answer with one word only.", "response": "apple."}
+{"endpoint": "ref-05", "id": "4", "repeat": 1, "prompt": "Name one random fruit. Answer with one word only.", "response": "Banana"}
+{"endpoint": "ref-06", "id": "4", "repeat": 1, "prompt": "Name one random fruit. Answer with one word only.", "response": "[Apple]"}
+{"endpoint": "ref-07", "id": "4", "repeat": 1, "prompt": "Name one random fruit. Answer with one word only.", "response": "One fruit. 1. Apple. 2. Oranges. 3"}
+{"endpoint": "ref-08", "id": "4", "repeat": 1, "prompt": "Name one random fruit. Answer with one word only.", "response": "Apple"}
+{"endpoint": "ref-09", "id": "4", "repeat": 1, "prompt": "Name one random fruit. Answer with one word only.", "response": "Buckfruit"}
+{"endpoint": "ref-01", "id": "5", "repeat": 1, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-02", "id": "5", "repeat": 1, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-03", "id": "5", "repeat": 1, "prompt": "Name one random color. Answer with one word only.", "response": "\"Green.\""}
+{"endpoint": "ref-04", "id": "5", "repeat": 1, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-05", "id": "5", "repeat": 1, "prompt": "Name one random color. Answer with one word only.", "response": "Blue"}
+{"endpoint": "ref-06", "id": "5", "repeat": 1, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-07", "id": "5", "repeat": 1, "prompt": "Name one random color. Answer with one word only.", "response": "\"Red\" is one random color. It is a bright, bold and vibrant"}
+{"endpoint": "ref-08", "id": "5", "repeat": 1, "prompt": "Name one random color. Answer with one word only.", "response": "Grey."}
+{"endpoint": "ref-09", "id": "5", "repeat": 1, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-01", "id": "6", "repeat": 1, "prompt": "Name one random city. Answer with one word only.", "response": "New York"}
+{"endpoint": "ref-02", "id": "6", "repeat": 1, "prompt": "Name one random city. Answer with one word only.", "response": "New York"}
+{"endpoint": "ref-03", "id": "6", "repeat": 1, "prompt": "Name one random city. Answer with one word only.", "response": "New York"}
+{"endpoint": "ref-04", "id": "6", "repeat": 1, "prompt": "Name one random city. Answer with one word only.", "response": "New York City."}
+{"endpoint": "ref-05", "id": "6", "repeat": 1, "prompt": "Name one random city. Answer with one word only.", "response": "New York"}
+{"endpoint": "ref-06", "id": "6", "repeat": 1, "prompt": "Name one random city. Answer with one word only.", "response": "Tallinn"}
+{"endpoint": "ref-07", "id": "6", "repeat": 1, "prompt": "Name one random city. Answer with one word only.", "response": "City. One word. No specific location or name is required."}
+{"endpoint": "ref-08", "id": "6", "repeat": 1, "prompt": "Name one random city. Answer with one word only.", "response": "London"}
+{"endpoint": "ref-09", "id": "6", "repeat": 1, "prompt": "Name one random city. Answer with one word only.", "response": "The city is Paris."}
+{"endpoint": "ref-01", "id": "7", "repeat": 1, "prompt": "Name one random country. Answer with one word only.", "response": "Argentina"}
+{"endpoint": "ref-02", "id": "7", "repeat": 1, "prompt": "Name one random country. Answer with one word only.", "response": "Haiti"}
+{"endpoint": "ref-03", "id": "7", "repeat": 1, "prompt": "Name one random country. Answer with one word only.", "response": "\"No country\""}
+{"endpoint": "ref-04", "id": "7", "repeat": 1, "prompt": "Name one random country. Answer with one word only.", "response": "Brazil."}
+{"endpoint": "ref-05", "id": "7", "repeat": 1, "prompt": "Name one random country. Answer with one word only.", "response": "Brazil"}
+{"endpoint": "ref-06", "id": "7", "repeat": 1, "prompt": "Name one random country. Answer with one word only.", "response": "Country."}
+{"endpoint": "ref-07", "id": "7", "repeat": 1, "prompt": "Name one random country. Answer with one word only.", "response": "Australia. One word is “A.”\n\nInput: Name one random country"}
+{"endpoint": "ref-08", "id": "7", "repeat": 1, "prompt": "Name one random country. Answer with one word only.", "response": "Spain."}
+{"endpoint": "ref-09", "id": "7", "repeat": 1, "prompt": "Name one random country. Answer with one word only.", "response": "Italy"}
+{"endpoint": "ref-01", "id": "8", "repeat": 1, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-02", "id": "8", "repeat": 1, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A."}
+{"endpoint": "ref-03", "id": "8", "repeat": 1, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "The letter of the alphabet is \"A\"."}
+{"endpoint": "ref-04", "id": "8", "repeat": 1, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A."}
+{"endpoint": "ref-05", "id": "8", "repeat": 1, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-06", "id": "8", "repeat": 1, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-07", "id": "8", "repeat": 1, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "The letter of the alphabet that can be chosen for random is B. The letter"}
+{"endpoint": "ref-08", "id": "8", "repeat": 1, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-09", "id": "8", "repeat": 1, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-01", "id": "9", "repeat": 1, "prompt": "Give one random first name. Answer with one word only.", "response": "Frnds."}
+{"endpoint": "ref-02", "id": "9", "repeat": 1, "prompt": "Give one random first name. Answer with one word only.", "response": "Nico"}
+{"endpoint": "ref-03", "id": "9", "repeat": 1, "prompt": "Give one random first name. Answer with one word only.", "response": "Jane"}
+{"endpoint": "ref-04", "id": "9", "repeat": 1, "prompt": "Give one random first name. Answer with one word only.", "response": "Any."}
+{"endpoint": "ref-05", "id": "9", "repeat": 1, "prompt": "Give one random first name. Answer with one word only.", "response": "* No response"}
+{"endpoint": "ref-06", "id": "9", "repeat": 1, "prompt": "Give one random first name. Answer with one word only.", "response": "[Your Name]"}
+{"endpoint": "ref-07", "id": "9", "repeat": 1, "prompt": "Give one random first name. Answer with one word only.", "response": "Do not hesitate to call me Sarah."}
+{"endpoint": "ref-08", "id": "9", "repeat": 1, "prompt": "Give one random first name. Answer with one word only.", "response": "one."}
+{"endpoint": "ref-09", "id": "9", "repeat": 1, "prompt": "Give one random first name. Answer with one word only.", "response": "Harry"}
+{"endpoint": "ref-01", "id": "10", "repeat": 1, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Spinach"}
+{"endpoint": "ref-02", "id": "10", "repeat": 1, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Spinach."}
+{"endpoint": "ref-03", "id": "10", "repeat": 1, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Radish."}
+{"endpoint": "ref-04", "id": "10", "repeat": 1, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Broccoli."}
+{"endpoint": "ref-05", "id": "10", "repeat": 1, "prompt": "Name one random vegetable. Answer with one word only.", "response": "\"Root.\""}
+{"endpoint": "ref-06", "id": "10", "repeat": 1, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Bread."}
+{"endpoint": "ref-07", "id": "10", "repeat": 1, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Leafy. One word answer: Leafy."}
+{"endpoint": "ref-08", "id": "10", "repeat": 1, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Spud!"}
+{"endpoint": "ref-09", "id": "10", "repeat": 1, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Buckwheat."}
+{"endpoint": "ref-01", "id": "11", "repeat": 1, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Trumpet"}
+{"endpoint": "ref-02", "id": "11", "repeat": 1, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Trombone"}
+{"endpoint": "ref-03", "id": "11", "repeat": 1, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "One random musical instrument is the violin"}
+{"endpoint": "ref-04", "id": "11", "repeat": 1, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Percussion."}
+{"endpoint": "ref-05", "id": "11", "repeat": 1, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Percussion"}
+{"endpoint": "ref-06", "id": "11", "repeat": 1, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Percussion"}
+{"endpoint": "ref-07", "id": "11", "repeat": 1, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Instrument: Guitar. One word: Guitar."}
+{"endpoint": "ref-08", "id": "11", "repeat": 1, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Cello."}
+{"endpoint": "ref-09", "id": "11", "repeat": 1, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Stringed instrument."}
+{"endpoint": "ref-01", "id": "12", "repeat": 1, "prompt": "Name one random sport. Answer with one word only.", "response": "Hockey"}
+{"endpoint": "ref-02", "id": "12", "repeat": 1, "prompt": "Name one random sport. Answer with one word only.", "response": "Soccer!"}
+{"endpoint": "ref-03", "id": "12", "repeat": 1, "prompt": "Name one random sport. Answer with one word only.", "response": "Soccer"}
+{"endpoint": "ref-04", "id": "12", "repeat": 1, "prompt": "Name one random sport. Answer with one word only.", "response": "Rolling."}
+{"endpoint": "ref-05", "id": "12", "repeat": 1, "prompt": "Name one random sport. Answer with one word only.", "response": "Soccer"}
+{"endpoint": "ref-06", "id": "12", "repeat": 1, "prompt": "Name one random sport. Answer with one word only.", "response": "Soccer"}
+{"endpoint": "ref-07", "id": "12", "repeat": 1, "prompt": "Name one random sport. Answer with one word only.", "response": "Soccer. One word - Soccer. It is an international sport played by"}
+{"endpoint": "ref-08", "id": "12", "repeat": 1, "prompt": "Name one random sport. Answer with one word only.", "response": "Football."}
+{"endpoint": "ref-09", "id": "12", "repeat": 1, "prompt": "Name one random sport. Answer with one word only.", "response": "Soccer"}
+{"endpoint": "ref-01", "id": "13", "repeat": 1, "prompt": "Name one random flower. Answer with one word only.", "response": "Petunia"}
+{"endpoint": "ref-02", "id": "13", "repeat": 1, "prompt": "Name one random flower. Answer with one word only.", "response": "Petal."}
+{"endpoint": "ref-03", "id": "13", "repeat": 1, "prompt": "Name one random flower. Answer with one word only.", "response": "Petunia"}
+{"endpoint": "ref-04", "id": "13", "repeat": 1, "prompt": "Name one random flower. Answer with one word only.", "response": "Flowers."}
+{"endpoint": "ref-05", "id": "13", "repeat": 1, "prompt": "Name one random flower. Answer with one word only.", "response": "Nymphaea"}
+{"endpoint": "ref-06", "id": "13", "repeat": 1, "prompt": "Name one random flower. Answer with one word only.", "response": "Sunflower"}
+{"endpoint": "ref-07", "id": "13", "repeat": 1, "prompt": "Name one random flower. Answer with one word only.", "response": "Lily. Just one word."}
+{"endpoint": "ref-08", "id": "13", "repeat": 1, "prompt": "Name one random flower. Answer with one word only.", "response": "Butterfly"}
+{"endpoint": "ref-09", "id": "13", "repeat": 1, "prompt": "Name one random flower. Answer with one word only.", "response": "Rose."}
+{"endpoint": "ref-01", "id": "14", "repeat": 1, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Hydrogen"}
+{"endpoint": "ref-02", "id": "14", "repeat": 1, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen."}
+{"endpoint": "ref-03", "id": "14", "repeat": 1, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen."}
+{"endpoint": "ref-04", "id": "14", "repeat": 1, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Hydrogen."}
+{"endpoint": "ref-05", "id": "14", "repeat": 1, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen"}
+{"endpoint": "ref-06", "id": "14", "repeat": 1, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen"}
+{"endpoint": "ref-07", "id": "14", "repeat": 1, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Hydrogen. It is a colorless, odorless, and tasteless element."}
+{"endpoint": "ref-08", "id": "14", "repeat": 1, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen."}
+{"endpoint": "ref-09", "id": "14", "repeat": 1, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Hydrogen"}
+{"endpoint": "ref-01", "id": "15", "repeat": 1, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Today is a Monday."}
+{"endpoint": "ref-02", "id": "15", "repeat": 1, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday"}
+{"endpoint": "ref-03", "id": "15", "repeat": 1, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday"}
+{"endpoint": "ref-04", "id": "15", "repeat": 1, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Sunday."}
+{"endpoint": "ref-05", "id": "15", "repeat": 1, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday"}
+{"endpoint": "ref-06", "id": "15", "repeat": 1, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "[random day of the week]"}
+{"endpoint": "ref-07", "id": "15", "repeat": 1, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday. Sunday. Tuesday. Wednesday. Thursday. Friday. Saturday. Sunday."}
+{"endpoint": "ref-08", "id": "15", "repeat": 1, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Sun."}
+{"endpoint": "ref-09", "id": "15", "repeat": 1, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday"}
+{"endpoint": "ref-01", "id": "16", "repeat": 1, "prompt": "Pick a random month. Answer with one word only.", "response": "October."}
+{"endpoint": "ref-02", "id": "16", "repeat": 1, "prompt": "Pick a random month. Answer with one word only.", "response": "May"}
+{"endpoint": "ref-03", "id": "16", "repeat": 1, "prompt": "Pick a random month. Answer with one word only.", "response": "January"}
+{"endpoint": "ref-04", "id": "16", "repeat": 1, "prompt": "Pick a random month. Answer with one word only.", "response": "January."}
+{"endpoint": "ref-05", "id": "16", "repeat": 1, "prompt": "Pick a random month. Answer with one word only.", "response": "October"}
+{"endpoint": "ref-06", "id": "16", "repeat": 1, "prompt": "Pick a random month. Answer with one word only.", "response": "January"}
+{"endpoint": "ref-07", "id": "16", "repeat": 1, "prompt": "Pick a random month. Answer with one word only.", "response": "July. Is that correct?"}
+{"endpoint": "ref-08", "id": "16", "repeat": 1, "prompt": "Pick a random month. Answer with one word only.", "response": "April"}
+{"endpoint": "ref-09", "id": "16", "repeat": 1, "prompt": "Pick a random month. Answer with one word only.", "response": "Months: January, February, March, etc."}
+{"endpoint": "ref-01", "id": "17", "repeat": 1, "prompt": "Name one random emotion. Answer with one word only.", "response": "Shelter"}
+{"endpoint": "ref-02", "id": "17", "repeat": 1, "prompt": "Name one random emotion. Answer with one word only.", "response": "Emotion: Fear"}
+{"endpoint": "ref-03", "id": "17", "repeat": 1, "prompt": "Name one random emotion. Answer with one word only.", "response": "Fear"}
+{"endpoint": "ref-04", "id": "17", "repeat": 1, "prompt": "Name one random emotion. Answer with one word only.", "response": "Fear."}
+{"endpoint": "ref-05", "id": "17", "repeat": 1, "prompt": "Name one random emotion. Answer with one word only.", "response": "SAD"}
+{"endpoint": "ref-06", "id": "17", "repeat": 1, "prompt": "Name one random emotion. Answer with one word only.", "response": "Fear"}
+{"endpoint": "ref-07", "id": "17", "repeat": 1, "prompt": "Name one random emotion. Answer with one word only.", "response": "Sorrow. (Sorrow) is one word. (Sorrow) is"}
+{"endpoint": "ref-08", "id": "17", "repeat": 1, "prompt": "Name one random emotion. Answer with one word only.", "response": "EmotionoTis a concise and accurate response, as it will bring up the"}
+{"endpoint": "ref-09", "id": "17", "repeat": 1, "prompt": "Name one random emotion. Answer with one word only.", "response": "Fear."}
+{"endpoint": "ref-01", "id": "18", "repeat": 1, "prompt": "Name one random profession. Answer with one word only.", "response": "Machine learning"}
+{"endpoint": "ref-02", "id": "18", "repeat": 1, "prompt": "Name one random profession. Answer with one word only.", "response": "\"doctor\""}
+{"endpoint": "ref-03", "id": "18", "repeat": 1, "prompt": "Name one random profession. Answer with one word only.", "response": "Artist"}
+{"endpoint": "ref-04", "id": "18", "repeat": 1, "prompt": "Name one random profession. Answer with one word only.", "response": "Computer Scientist."}
+{"endpoint": "ref-05", "id": "18", "repeat": 1, "prompt": "Name one random profession. Answer with one word only.", "response": "Air traffic controller."}
+{"endpoint": "ref-06", "id": "18", "repeat": 1, "prompt": "Name one random profession. Answer with one word only.", "response": "Machine learning"}
+{"endpoint": "ref-07", "id": "18", "repeat": 1, "prompt": "Name one random profession. Answer with one word only.", "response": "Traveling. So many ways to travel around the world. One word that can"}
+{"endpoint": "ref-08", "id": "18", "repeat": 1, "prompt": "Name one random profession. Answer with one word only.", "response": "The one profession is *Doctor*"}
+{"endpoint": "ref-09", "id": "18", "repeat": 1, "prompt": "Name one random profession. Answer with one word only.", "response": "Doctor."}
+{"endpoint": "ref-01", "id": "19", "repeat": 1, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Hairbrush"}
+{"endpoint": "ref-02", "id": "19", "repeat": 1, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Object: coffee "}
+{"endpoint": "ref-03", "id": "19", "repeat": 1, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Blanket"}
+{"endpoint": "ref-04", "id": "19", "repeat": 1, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Mop."}
+{"endpoint": "ref-05", "id": "19", "repeat": 1, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Toga"}
+{"endpoint": "ref-06", "id": "19", "repeat": 1, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Kitchen"}
+{"endpoint": "ref-07", "id": "19", "repeat": 1, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Filters. There might be filters in the kitchen that you might find particularly useful"}
+{"endpoint": "ref-08", "id": "19", "repeat": 1, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Clothes. There's a lot in a kitchen."}
+{"endpoint": "ref-09", "id": "19", "repeat": 1, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Kitchen."}
+{"endpoint": "ref-01", "id": "0", "repeat": 2, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-02", "id": "0", "repeat": 2, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-03", "id": "0", "repeat": 2, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-04", "id": "0", "repeat": 2, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "100."}
+{"endpoint": "ref-05", "id": "0", "repeat": 2, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-06", "id": "0", "repeat": 2, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-07", "id": "0", "repeat": 2, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1. I have been asked to answer a question.\n2. Please provide"}
+{"endpoint": "ref-08", "id": "0", "repeat": 2, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1234567890"}
+{"endpoint": "ref-09", "id": "0", "repeat": 2, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "100"}
+{"endpoint": "ref-01", "id": "1", "repeat": 2, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-02", "id": "1", "repeat": 2, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1234567890123456"}
+{"endpoint": "ref-03", "id": "1", "repeat": 2, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "What is the number between 1 and 1000?"}
+{"endpoint": "ref-04", "id": "1", "repeat": 2, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1000."}
+{"endpoint": "ref-05", "id": "1", "repeat": 2, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-06", "id": "1", "repeat": 2, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1000"}
+{"endpoint": "ref-07", "id": "1", "repeat": 2, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "The number between 1 and 1000 is 999"}
+{"endpoint": "ref-08", "id": "1", "repeat": 2, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1234567890123456"}
+{"endpoint": "ref-09", "id": "1", "repeat": 2, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "2."}
+{"endpoint": "ref-01", "id": "2", "repeat": 2, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1234567890101112"}
+{"endpoint": "ref-02", "id": "2", "repeat": 2, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-03", "id": "2", "repeat": 2, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-04", "id": "2", "repeat": 2, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1. You can pick a random number between 1 and 50."}
+{"endpoint": "ref-05", "id": "2", "repeat": 2, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-06", "id": "2", "repeat": 2, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "123456789"}
+{"endpoint": "ref-07", "id": "2", "repeat": 2, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "6. There are five hundred and sixty-five ways to get six heads when"}
+{"endpoint": "ref-08", "id": "2", "repeat": 2, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-09", "id": "2", "repeat": 2, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "12."}
+{"endpoint": "ref-01", "id": "3", "repeat": 2, "prompt": "Name one random animal. Answer with one word only.", "response": "Animal."}
+{"endpoint": "ref-02", "id": "3", "repeat": 2, "prompt": "Name one random animal. Answer with one word only.", "response": "Testbot."}
+{"endpoint": "ref-03", "id": "3", "repeat": 2, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-04", "id": "3", "repeat": 2, "prompt": "Name one random animal. Answer with one word only.", "response": "Animal."}
+{"endpoint": "ref-05", "id": "3", "repeat": 2, "prompt": "Name one random animal. Answer with one word only.", "response": "Animal"}
+{"endpoint": "ref-06", "id": "3", "repeat": 2, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-07", "id": "3", "repeat": 2, "prompt": "Name one random animal. Answer with one word only.", "response": "Animal. No word needed. There is one animal in the world. Animals are"}
+{"endpoint": "ref-08", "id": "3", "repeat": 2, "prompt": "Name one random animal. Answer with one word only.", "response": "Bigrams: One random animal is a lion."}
+{"endpoint": "ref-09", "id": "3", "repeat": 2, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-01", "id": "4", "repeat": 2, "prompt": "Name one random fruit. Answer with one word only.", "response": "A. Apple"}
+{"endpoint": "ref-02", "id": "4", "repeat": 2, "prompt": "Name one random fruit. Answer with one word only.", "response": "My favorite fruit is a melon."}
+{"endpoint": "ref-03", "id": "4", "repeat": 2, "prompt": "Name one random fruit. Answer with one word only.", "response": "Can you please provide me with a single word?"}
+{"endpoint": "ref-04", "id": "4", "repeat": 2, "prompt": "Name one random fruit. Answer with one word only.", "response": "Apple."}
+{"endpoint": "ref-05", "id": "4", "repeat": 2, "prompt": "Name one random fruit. Answer with one word only.", "response": "Pine."}
+{"endpoint": "ref-06", "id": "4", "repeat": 2, "prompt": "Name one random fruit. Answer with one word only.", "response": "Apple."}
+{"endpoint": "ref-07", "id": "4", "repeat": 2, "prompt": "Name one random fruit. Answer with one word only.", "response": "Fruit. 🍎🍓🍐🍓"}
+{"endpoint": "ref-08", "id": "4", "repeat": 2, "prompt": "Name one random fruit. Answer with one word only.", "response": "Apple"}
+{"endpoint": "ref-09", "id": "4", "repeat": 2, "prompt": "Name one random fruit. Answer with one word only.", "response": "Apple."}
+{"endpoint": "ref-01", "id": "5", "repeat": 2, "prompt": "Name one random color. Answer with one word only.", "response": "Black"}
+{"endpoint": "ref-02", "id": "5", "repeat": 2, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-03", "id": "5", "repeat": 2, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-04", "id": "5", "repeat": 2, "prompt": "Name one random color. Answer with one word only.", "response": "Red."}
+{"endpoint": "ref-05", "id": "5", "repeat": 2, "prompt": "Name one random color. Answer with one word only.", "response": "Blue"}
+{"endpoint": "ref-06", "id": "5", "repeat": 2, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-07", "id": "5", "repeat": 2, "prompt": "Name one random color. Answer with one word only.", "response": "Red. The color red is one of the most versatile and versatile colors in the"}
+{"endpoint": "ref-08", "id": "5", "repeat": 2, "prompt": "Name one random color. Answer with one word only.", "response": "Miolet"}
+{"endpoint": "ref-09", "id": "5", "repeat": 2, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-01", "id": "6", "repeat": 2, "prompt": "Name one random city. Answer with one word only.", "response": "London"}
+{"endpoint": "ref-02", "id": "6", "repeat": 2, "prompt": "Name one random city. Answer with one word only.", "response": "Um."}
+{"endpoint": "ref-03", "id": "6", "repeat": 2, "prompt": "Name one random city. Answer with one word only.", "response": "New York"}
+{"endpoint": "ref-04", "id": "6", "repeat": 2, "prompt": "Name one random city. Answer with one word only.", "response": "New York."}
+{"endpoint": "ref-05", "id": "6", "repeat": 2, "prompt": "Name one random city. Answer with one word only.", "response": "New York City"}
+{"endpoint": "ref-06", "id": "6", "repeat": 2, "prompt": "Name one random city. Answer with one word only.", "response": "St. Petersburg"}
+{"endpoint": "ref-07", "id": "6", "repeat": 2, "prompt": "Name one random city. Answer with one word only.", "response": "Paris. It’s a vibrant city full of life and culture. It’"}
+{"endpoint": "ref-08", "id": "6", "repeat": 2, "prompt": "Name one random city. Answer with one word only.", "response": "Milan"}
+{"endpoint": "ref-09", "id": "6", "repeat": 2, "prompt": "Name one random city. Answer with one word only.", "response": "New York City."}
+{"endpoint": "ref-01", "id": "7", "repeat": 2, "prompt": "Name one random country. Answer with one word only.", "response": "United"}
+{"endpoint": "ref-02", "id": "7", "repeat": 2, "prompt": "Name one random country. Answer with one word only.", "response": "Netherlands."}
+{"endpoint": "ref-03", "id": "7", "repeat": 2, "prompt": "Name one random country. Answer with one word only.", "response": "Switzerland"}
+{"endpoint": "ref-04", "id": "7", "repeat": 2, "prompt": "Name one random country. Answer with one word only.", "response": "China."}
+{"endpoint": "ref-05", "id": "7", "repeat": 2, "prompt": "Name one random country. Answer with one word only.", "response": "\"Spain\""}
+{"endpoint": "ref-06", "id": "7", "repeat": 2, "prompt": "Name one random country. Answer with one word only.", "response": "Australia"}
+{"endpoint": "ref-07", "id": "7", "repeat": 2, "prompt": "Name one random country. Answer with one word only.", "response": "India. One word. No specific country names can be used."}
+{"endpoint": "ref-08", "id": "7", "repeat": 2, "prompt": "Name one random country. Answer with one word only.", "response": "France"}
+{"endpoint": "ref-09", "id": "7", "repeat": 2, "prompt": "Name one random country. Answer with one word only.", "response": "Australia"}
+{"endpoint": "ref-01", "id": "8", "repeat": 2, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "O"}
+{"endpoint": "ref-02", "id": "8", "repeat": 2, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-03", "id": "8", "repeat": 2, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-04", "id": "8", "repeat": 2, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "q. Q is the second letter of the English alphabet."}
+{"endpoint": "ref-05", "id": "8", "repeat": 2, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "a."}
+{"endpoint": "ref-06", "id": "8", "repeat": 2, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-07", "id": "8", "repeat": 2, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A. A. A is a letter in English alphabet. It is always written"}
+{"endpoint": "ref-08", "id": "8", "repeat": 2, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-09", "id": "8", "repeat": 2, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A."}
+{"endpoint": "ref-01", "id": "9", "repeat": 2, "prompt": "Give one random first name. Answer with one word only.", "response": "\"Liam\""}
+{"endpoint": "ref-02", "id": "9", "repeat": 2, "prompt": "Give one random first name. Answer with one word only.", "response": "One random first name is \"John\"."}
+{"endpoint": "ref-03", "id": "9", "repeat": 2, "prompt": "Give one random first name. Answer with one word only.", "response": "That's a great question! Yes, here is one random first name: Emily"}
+{"endpoint": "ref-04", "id": "9", "repeat": 2, "prompt": "Give one random first name. Answer with one word only.", "response": "Hello."}
+{"endpoint": "ref-05", "id": "9", "repeat": 2, "prompt": "Give one random first name. Answer with one word only.", "response": "Oh, charming."}
+{"endpoint": "ref-06", "id": "9", "repeat": 2, "prompt": "Give one random first name. Answer with one word only.", "response": "[Your Name]"}
+{"endpoint": "ref-07", "id": "9", "repeat": 2, "prompt": "Give one random first name. Answer with one word only.", "response": "My first name is Sarah."}
+{"endpoint": "ref-08", "id": "9", "repeat": 2, "prompt": "Give one random first name. Answer with one word only.", "response": "We..."}
+{"endpoint": "ref-09", "id": "9", "repeat": 2, "prompt": "Give one random first name. Answer with one word only.", "response": "Alex"}
+{"endpoint": "ref-01", "id": "10", "repeat": 2, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Spinach"}
+{"endpoint": "ref-02", "id": "10", "repeat": 2, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Baked."}
+{"endpoint": "ref-03", "id": "10", "repeat": 2, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Spinach"}
+{"endpoint": "ref-04", "id": "10", "repeat": 2, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Buckwheat."}
+{"endpoint": "ref-05", "id": "10", "repeat": 2, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Spinach"}
+{"endpoint": "ref-06", "id": "10", "repeat": 2, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Spinach"}
+{"endpoint": "ref-07", "id": "10", "repeat": 2, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Brussels sprouts. One word: brussel spouts. You can find them"}
+{"endpoint": "ref-08", "id": "10", "repeat": 2, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Colorless"}
+{"endpoint": "ref-09", "id": "10", "repeat": 2, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Bucket."}
+{"endpoint": "ref-01", "id": "11", "repeat": 2, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "The piano."}
+{"endpoint": "ref-02", "id": "11", "repeat": 2, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Bass"}
+{"endpoint": "ref-03", "id": "11", "repeat": 2, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Percussion"}
+{"endpoint": "ref-04", "id": "11", "repeat": 2, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "String."}
+{"endpoint": "ref-05", "id": "11", "repeat": 2, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Tabla"}
+{"endpoint": "ref-06", "id": "11", "repeat": 2, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Percussion"}
+{"endpoint": "ref-07", "id": "11", "repeat": 2, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Instrument. One word only. instrument."}
+{"endpoint": "ref-08", "id": "11", "repeat": 2, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Side-note: while not strictly a musical instrument, flower boxes are common instruments"}
+{"endpoint": "ref-09", "id": "11", "repeat": 2, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Bass."}
+{"endpoint": "ref-01", "id": "12", "repeat": 2, "prompt": "Name one random sport. Answer with one word only.", "response": "Football"}
+{"endpoint": "ref-02", "id": "12", "repeat": 2, "prompt": "Name one random sport. Answer with one word only.", "response": "Soccer"}
+{"endpoint": "ref-03", "id": "12", "repeat": 2, "prompt": "Name one random sport. Answer with one word only.", "response": "Soccer"}
+{"endpoint": "ref-04", "id": "12", "repeat": 2, "prompt": "Name one random sport. Answer with one word only.", "response": "Football."}
+{"endpoint": "ref-05", "id": "12", "repeat": 2, "prompt": "Name one random sport. Answer with one word only.", "response": "Rowing"}
+{"endpoint": "ref-06", "id": "12", "repeat": 2, "prompt": "Name one random sport. Answer with one word only.", "response": "Football"}
+{"endpoint": "ref-07", "id": "12", "repeat": 2, "prompt": "Name one random sport. Answer with one word only.", "response": "Football. One word: football. Question: What sport is the most popular"}
+{"endpoint": "ref-08", "id": "12", "repeat": 2, "prompt": "Name one random sport. Answer with one word only.", "response": "Sport: Sports bot"}
+{"endpoint": "ref-09", "id": "12", "repeat": 2, "prompt": "Name one random sport. Answer with one word only.", "response": "Golf"}
+{"endpoint": "ref-01", "id": "13", "repeat": 2, "prompt": "Name one random flower. Answer with one word only.", "response": "Petunia"}
+{"endpoint": "ref-02", "id": "13", "repeat": 2, "prompt": "Name one random flower. Answer with one word only.", "response": "Daffodil"}
+{"endpoint": "ref-03", "id": "13", "repeat": 2, "prompt": "Name one random flower. Answer with one word only.", "response": "Rose."}
+{"endpoint": "ref-04", "id": "13", "repeat": 2, "prompt": "Name one random flower. Answer with one word only.", "response": "Rose."}
+{"endpoint": "ref-05", "id": "13", "repeat": 2, "prompt": "Name one random flower. Answer with one word only.", "response": "Petunia"}
+{"endpoint": "ref-06", "id": "13", "repeat": 2, "prompt": "Name one random flower. Answer with one word only.", "response": "[Flower]"}
+{"endpoint": "ref-07", "id": "13", "repeat": 2, "prompt": "Name one random flower. Answer with one word only.", "response": "Mint. It is a beautiful and fragrant plant whose scent is pleasing to the"}
+{"endpoint": "ref-08", "id": "13", "repeat": 2, "prompt": "Name one random flower. Answer with one word only.", "response": "snowdrop."}
+{"endpoint": "ref-09", "id": "13", "repeat": 2, "prompt": "Name one random flower. Answer with one word only.", "response": "Petal."}
+{"endpoint": "ref-01", "id": "14", "repeat": 2, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen"}
+{"endpoint": "ref-02", "id": "14", "repeat": 2, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Isotope."}
+{"endpoint": "ref-03", "id": "14", "repeat": 2, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen"}
+{"endpoint": "ref-04", "id": "14", "repeat": 2, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen."}
+{"endpoint": "ref-05", "id": "14", "repeat": 2, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen"}
+{"endpoint": "ref-06", "id": "14", "repeat": 2, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen"}
+{"endpoint": "ref-07", "id": "14", "repeat": 2, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Hydrogen."}
+{"endpoint": "ref-08", "id": "14", "repeat": 2, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Hydrogen"}
+{"endpoint": "ref-09", "id": "14", "repeat": 2, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen."}
+{"endpoint": "ref-01", "id": "15", "repeat": 2, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Sun"}
+{"endpoint": "ref-02", "id": "15", "repeat": 2, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Mon"}
+{"endpoint": "ref-03", "id": "15", "repeat": 2, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Nite"}
+{"endpoint": "ref-04", "id": "15", "repeat": 2, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday."}
+{"endpoint": "ref-05", "id": "15", "repeat": 2, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday"}
+{"endpoint": "ref-06", "id": "15", "repeat": 2, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "\"Tuesday\""}
+{"endpoint": "ref-07", "id": "15", "repeat": 2, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday. Today is a good day. Take some time to relax, enjoy the"}
+{"endpoint": "ref-08", "id": "15", "repeat": 2, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Mon."}
+{"endpoint": "ref-09", "id": "15", "repeat": 2, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Mon."}
+{"endpoint": "ref-01", "id": "16", "repeat": 2, "prompt": "Pick a random month. Answer with one word only.", "response": "January"}
+{"endpoint": "ref-02", "id": "16", "repeat": 2, "prompt": "Pick a random month. Answer with one word only.", "response": "January"}
+{"endpoint": "ref-03", "id": "16", "repeat": 2, "prompt": "Pick a random month. Answer with one word only.", "response": "currently"}
+{"endpoint": "ref-04", "id": "16", "repeat": 2, "prompt": "Pick a random month. Answer with one word only.", "response": "September"}
+{"endpoint": "ref-05", "id": "16", "repeat": 2, "prompt": "Pick a random month. Answer with one word only.", "response": "Months"}
+{"endpoint": "ref-06", "id": "16", "repeat": 2, "prompt": "Pick a random month. Answer with one word only.", "response": "January"}
+{"endpoint": "ref-07", "id": "16", "repeat": 2, "prompt": "Pick a random month. Answer with one word only.", "response": "January. My favorite month is January. I love it when it starts to warm"}
+{"endpoint": "ref-08", "id": "16", "repeat": 2, "prompt": "Pick a random month. Answer with one word only.", "response": "December"}
+{"endpoint": "ref-09", "id": "16", "repeat": 2, "prompt": "Pick a random month. Answer with one word only.", "response": "June"}
+{"endpoint": "ref-01", "id": "17", "repeat": 2, "prompt": "Name one random emotion. Answer with one word only.", "response": "SOLITUDE"}
+{"endpoint": "ref-02", "id": "17", "repeat": 2, "prompt": "Name one random emotion. Answer with one word only.", "response": "Sadness"}
+{"endpoint": "ref-03", "id": "17", "repeat": 2, "prompt": "Name one random emotion. Answer with one word only.", "response": "One random emotion is \"sad.\""}
+{"endpoint": "ref-04", "id": "17", "repeat": 2, "prompt": "Name one random emotion. Answer with one word only.", "response": "Distress."}
+{"endpoint": "ref-05", "id": "17", "repeat": 2, "prompt": "Name one random emotion. Answer with one word only.", "response": "(shrugs) anxious"}
+{"endpoint": "ref-06", "id": "17", "repeat": 2, "prompt": "Name one random emotion. Answer with one word only.", "response": "Fear"}
+{"endpoint": "ref-07", "id": "17", "repeat": 2, "prompt": "Name one random emotion. Answer with one word only.", "response": "Fear. One word: Fear. Fear is a powerful emotion that plays a vital"}
+{"endpoint": "ref-08", "id": "17", "repeat": 2, "prompt": "Name one random emotion. Answer with one word only.", "response": "Fear."}
+{"endpoint": "ref-09", "id": "17", "repeat": 2, "prompt": "Name one random emotion. Answer with one word only.", "response": "Emotion: Shower"}
+{"endpoint": "ref-01", "id": "18", "repeat": 2, "prompt": "Name one random profession. Answer with one word only.", "response": "Paramedic"}
+{"endpoint": "ref-02", "id": "18", "repeat": 2, "prompt": "Name one random profession. Answer with one word only.", "response": "Scientist"}
+{"endpoint": "ref-03", "id": "18", "repeat": 2, "prompt": "Name one random profession. Answer with one word only.", "response": "Arts"}
+{"endpoint": "ref-04", "id": "18", "repeat": 2, "prompt": "Name one random profession. Answer with one word only.", "response": "Artist."}
+{"endpoint": "ref-05", "id": "18", "repeat": 2, "prompt": "Name one random profession. Answer with one word only.", "response": "Manager"}
+{"endpoint": "ref-06", "id": "18", "repeat": 2, "prompt": "Name one random profession. Answer with one word only.", "response": "Biologist"}
+{"endpoint": "ref-07", "id": "18", "repeat": 2, "prompt": "Name one random profession. Answer with one word only.", "response": "Technology entrepreneur."}
+{"endpoint": "ref-08", "id": "18", "repeat": 2, "prompt": "Name one random profession. Answer with one word only.", "response": "Mataḥat!"}
+{"endpoint": "ref-09", "id": "18", "repeat": 2, "prompt": "Name one random profession. Answer with one word only.", "response": "Artist."}
+{"endpoint": "ref-01", "id": "19", "repeat": 2, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Biscuit."}
+{"endpoint": "ref-02", "id": "19", "repeat": 2, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Box."}
+{"endpoint": "ref-03", "id": "19", "repeat": 2, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Cabinet"}
+{"endpoint": "ref-04", "id": "19", "repeat": 2, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Breakfast."}
+{"endpoint": "ref-05", "id": "19", "repeat": 2, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Muffin tin."}
+{"endpoint": "ref-06", "id": "19", "repeat": 2, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Hand."}
+{"endpoint": "ref-07", "id": "19", "repeat": 2, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Oven."}
+{"endpoint": "ref-08", "id": "19", "repeat": 2, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Woodblocks"}
+{"endpoint": "ref-09", "id": "19", "repeat": 2, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "A microwave."}
+{"endpoint": "ref-01", "id": "0", "repeat": 3, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-02", "id": "0", "repeat": 3, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-03", "id": "0", "repeat": 3, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "I'm sorry, but as an AI, I don't have access to random"}
+{"endpoint": "ref-04", "id": "0", "repeat": 3, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "200."}
+{"endpoint": "ref-05", "id": "0", "repeat": 3, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-06", "id": "0", "repeat": 3, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-07", "id": "0", "repeat": 3, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "100. The answer should be 100. But it is"}
+{"endpoint": "ref-08", "id": "0", "repeat": 3, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "123"}
+{"endpoint": "ref-09", "id": "0", "repeat": 3, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "5."}
+{"endpoint": "ref-01", "id": "1", "repeat": 3, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-02", "id": "1", "repeat": 3, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "3742"}
+{"endpoint": "ref-03", "id": "1", "repeat": 3, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-04", "id": "1", "repeat": 3, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1000."}
+{"endpoint": "ref-05", "id": "1", "repeat": 3, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-06", "id": "1", "repeat": 3, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1234567890123456"}
+{"endpoint": "ref-07", "id": "1", "repeat": 3, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1000. That is my answer. I hope you understand. Is"}
+{"endpoint": "ref-08", "id": "1", "repeat": 3, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1000"}
+{"endpoint": "ref-09", "id": "1", "repeat": 3, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1000"}
+{"endpoint": "ref-01", "id": "2", "repeat": 3, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-02", "id": "2", "repeat": 3, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-03", "id": "2", "repeat": 3, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-04", "id": "2", "repeat": 3, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1. Choose a random number between 1 and 50.\n\n"}
+{"endpoint": "ref-05", "id": "2", "repeat": 3, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-06", "id": "2", "repeat": 3, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-07", "id": "2", "repeat": 3, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "I picked number 50, I think.\n\nNumber 50"}
+{"endpoint": "ref-08", "id": "2", "repeat": 3, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-09", "id": "2", "repeat": 3, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "50."}
+{"endpoint": "ref-01", "id": "3", "repeat": 3, "prompt": "Name one random animal. Answer with one word only.", "response": "Cat."}
+{"endpoint": "ref-02", "id": "3", "repeat": 3, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-03", "id": "3", "repeat": 3, "prompt": "Name one random animal. Answer with one word only.", "response": "One random animal is a cat."}
+{"endpoint": "ref-04", "id": "3", "repeat": 3, "prompt": "Name one random animal. Answer with one word only.", "response": "Animal. I'm sorry, I'm not trained to classify animals, please try"}
+{"endpoint": "ref-05", "id": "3", "repeat": 3, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-06", "id": "3", "repeat": 3, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-07", "id": "3", "repeat": 3, "prompt": "Name one random animal. Answer with one word only.", "response": "Animal. Is that right?"}
+{"endpoint": "ref-08", "id": "3", "repeat": 3, "prompt": "Name one random animal. Answer with one word only.", "response": "The."}
+{"endpoint": "ref-09", "id": "3", "repeat": 3, "prompt": "Name one random animal. Answer with one word only.", "response": "Arachnid."}
+{"endpoint": "ref-01", "id": "4", "repeat": 3, "prompt": "Name one random fruit. Answer with one word only.", "response": "Mango"}
+{"endpoint": "ref-02", "id": "4", "repeat": 3, "prompt": "Name one random fruit. Answer with one word only.", "response": "Crumb."}
+{"endpoint": "ref-03", "id": "4", "repeat": 3, "prompt": "Name one random fruit. Answer with one word only.", "response": "Aesculap's Vine."}
+{"endpoint": "ref-04", "id": "4", "repeat": 3, "prompt": "Name one random fruit. Answer with one word only.", "response": "A. Apple"}
+{"endpoint": "ref-05", "id": "4", "repeat": 3, "prompt": "Name one random fruit. Answer with one word only.", "response": "Apple."}
+{"endpoint": "ref-06", "id": "4", "repeat": 3, "prompt": "Name one random fruit. Answer with one word only.", "response": "[Apple]"}
+{"endpoint": "ref-07", "id": "4", "repeat": 3, "prompt": "Name one random fruit. Answer with one word only.", "response": "Apple. Assurely. Always. 100%. Assurely"}
+{"endpoint": "ref-08", "id": "4", "repeat": 3, "prompt": "Name one random fruit. Answer with one word only.", "response": "Strawberry."}
+{"endpoint": "ref-09", "id": "4", "repeat": 3, "prompt": "Name one random fruit. Answer with one word only.", "response": "Avocado."}
+{"endpoint": "ref-01", "id": "5", "repeat": 3, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-02", "id": "5", "repeat": 3, "prompt": "Name one random color. Answer with one word only.", "response": "Blue"}
+{"endpoint": "ref-03", "id": "5", "repeat": 3, "prompt": "Name one random color. Answer with one word only.", "response": "Etc."}
+{"endpoint": "ref-04", "id": "5", "repeat": 3, "prompt": "Name one random color. Answer with one word only.", "response": "Red."}
+{"endpoint": "ref-05", "id": "5", "repeat": 3, "prompt": "Name one random color. Answer with one word only.", "response": "Red."}
+{"endpoint": "ref-06", "id": "5", "repeat": 3, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-07", "id": "5", "repeat": 3, "prompt": "Name one random color. Answer with one word only.", "response": "Red. However, if you want to give it a second word, you could"}
+{"endpoint": "ref-08", "id": "5", "repeat": 3, "prompt": "Name one random color. Answer with one word only.", "response": "silver"}
+{"endpoint": "ref-09", "id": "5", "repeat": 3, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-01", "id": "6", "repeat": 3, "prompt": "Name one random city. Answer with one word only.", "response": "LONDON"}
+{"endpoint": "ref-02", "id": "6", "repeat": 3, "prompt": "Name one random city. Answer with one word only.", "response": "Hong Kong"}
+{"endpoint": "ref-03", "id": "6", "repeat": 3, "prompt": "Name one random city. Answer with one word only.", "response": "City: \"New York\""}
+{"endpoint": "ref-04", "id": "6", "repeat": 3, "prompt": "Name one random city. Answer with one word only.", "response": "New York."}
+{"endpoint": "ref-05", "id": "6", "repeat": 3, "prompt": "Name one random city. Answer with one word only.", "response": "City: Bangkok"}
+{"endpoint": "ref-06", "id": "6", "repeat": 3, "prompt": "Name one random city. Answer with one word only.", "response": "New York"}
+{"endpoint": "ref-07", "id": "6", "repeat": 3, "prompt": "Name one random city. Answer with one word only.", "response": "New York. Just one word, not a city or a landmark. The city"}
+{"endpoint": "ref-08", "id": "6", "repeat": 3, "prompt": "Name one random city. Answer with one word only.", "response": "Pune"}
+{"endpoint": "ref-09", "id": "6", "repeat": 3, "prompt": "Name one random city. Answer with one word only.", "response": "New York"}
+{"endpoint": "ref-01", "id": "7", "repeat": 3, "prompt": "Name one random country. Answer with one word only.", "response": "China"}
+{"endpoint": "ref-02", "id": "7", "repeat": 3, "prompt": "Name one random country. Answer with one word only.", "response": "India"}
+{"endpoint": "ref-03", "id": "7", "repeat": 3, "prompt": "Name one random country. Answer with one word only.", "response": "Country"}
+{"endpoint": "ref-04", "id": "7", "repeat": 3, "prompt": "Name one random country. Answer with one word only.", "response": "South America."}
+{"endpoint": "ref-05", "id": "7", "repeat": 3, "prompt": "Name one random country. Answer with one word only.", "response": "Canada"}
+{"endpoint": "ref-06", "id": "7", "repeat": 3, "prompt": "Name one random country. Answer with one word only.", "response": "Australia"}
+{"endpoint": "ref-07", "id": "7", "repeat": 3, "prompt": "Name one random country. Answer with one word only.", "response": "India. It is the second most populous country in the world, with a population"}
+{"endpoint": "ref-08", "id": "7", "repeat": 3, "prompt": "Name one random country. Answer with one word only.", "response": "con held"}
+{"endpoint": "ref-09", "id": "7", "repeat": 3, "prompt": "Name one random country. Answer with one word only.", "response": "India"}
+{"endpoint": "ref-01", "id": "8", "repeat": 3, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "E"}
+{"endpoint": "ref-02", "id": "8", "repeat": 3, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "M"}
+{"endpoint": "ref-03", "id": "8", "repeat": 3, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "The letter is A."}
+{"endpoint": "ref-04", "id": "8", "repeat": 3, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "J."}
+{"endpoint": "ref-05", "id": "8", "repeat": 3, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A."}
+{"endpoint": "ref-06", "id": "8", "repeat": 3, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-07", "id": "8", "repeat": 3, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "U. U is a letter of the English alphabet. It is the 1"}
+{"endpoint": "ref-08", "id": "8", "repeat": 3, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-09", "id": "8", "repeat": 3, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "\"a\""}
+{"endpoint": "ref-01", "id": "9", "repeat": 3, "prompt": "Give one random first name. Answer with one word only.", "response": "Spock"}
+{"endpoint": "ref-02", "id": "9", "repeat": 3, "prompt": "Give one random first name. Answer with one word only.", "response": "Wanda"}
+{"endpoint": "ref-03", "id": "9", "repeat": 3, "prompt": "Give one random first name. Answer with one word only.", "response": "Would you like to know someone's first name?"}
+{"endpoint": "ref-04", "id": "9", "repeat": 3, "prompt": "Give one random first name. Answer with one word only.", "response": "My name is Emma."}
+{"endpoint": "ref-05", "id": "9", "repeat": 3, "prompt": "Give one random first name. Answer with one word only.", "response": "Herr"}
+{"endpoint": "ref-06", "id": "9", "repeat": 3, "prompt": "Give one random first name. Answer with one word only.", "response": "[Your Name]"}
+{"endpoint": "ref-07", "id": "9", "repeat": 3, "prompt": "Give one random first name. Answer with one word only.", "response": "Personaly."}
+{"endpoint": "ref-08", "id": "9", "repeat": 3, "prompt": "Give one random first name. Answer with one word only.", "response": "Local"}
+{"endpoint": "ref-09", "id": "9", "repeat": 3, "prompt": "Give one random first name. Answer with one word only.", "response": "Oh my."}
+{"endpoint": "ref-01", "id": "10", "repeat": 3, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Let's eat!"}
+{"endpoint": "ref-02", "id": "10", "repeat": 3, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Spinach."}
+{"endpoint": "ref-03", "id": "10", "repeat": 3, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Dill"}
+{"endpoint": "ref-04", "id": "10", "repeat": 3, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Leaf."}
+{"endpoint": "ref-05", "id": "10", "repeat": 3, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Root."}
+{"endpoint": "ref-06", "id": "10", "repeat": 3, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Spinach"}
+{"endpoint": "ref-07", "id": "10", "repeat": 3, "prompt": "Name one random vegetable. Answer with one word only.", "response": "\"Carrot\" is the one."}
+{"endpoint": "ref-08", "id": "10", "repeat": 3, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Oaty."}
+{"endpoint": "ref-09", "id": "10", "repeat": 3, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Buckwheat"}
+{"endpoint": "ref-01", "id": "11", "repeat": 3, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Fiddle"}
+{"endpoint": "ref-02", "id": "11", "repeat": 3, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Percussion"}
+{"endpoint": "ref-03", "id": "11", "repeat": 3, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Kemstick!"}
+{"endpoint": "ref-04", "id": "11", "repeat": 3, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Stringed."}
+{"endpoint": "ref-05", "id": "11", "repeat": 3, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "*instrument*"}
+{"endpoint": "ref-06", "id": "11", "repeat": 3, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Percussion"}
+{"endpoint": "ref-07", "id": "11", "repeat": 3, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "String. One word answer is string. It is an instrument that produces sound when"}
+{"endpoint": "ref-08", "id": "11", "repeat": 3, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Oohokukoorious."}
+{"endpoint": "ref-09", "id": "11", "repeat": 3, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Percussion"}
+{"endpoint": "ref-01", "id": "12", "repeat": 3, "prompt": "Name one random sport. Answer with one word only.", "response": "Sport"}
+{"endpoint": "ref-02", "id": "12", "repeat": 3, "prompt": "Name one random sport. Answer with one word only.", "response": "Soccer."}
+{"endpoint": "ref-03", "id": "12", "repeat": 3, "prompt": "Name one random sport. Answer with one word only.", "response": "Basketball."}
+{"endpoint": "ref-04", "id": "12", "repeat": 3, "prompt": "Name one random sport. Answer with one word only.", "response": "Football."}
+{"endpoint": "ref-05", "id": "12", "repeat": 3, "prompt": "Name one random sport. Answer with one word only.", "response": "Sport - Basketball"}
+{"endpoint": "ref-06", "id": "12", "repeat": 3, "prompt": "Name one random sport. Answer with one word only.", "response": "Football"}
+{"endpoint": "ref-07", "id": "12", "repeat": 3, "prompt": "Name one random sport. Answer with one word only.", "response": "Soccer. Soccer is a popular sport, played between two teams of eleven"}
+{"endpoint": "ref-08", "id": "12", "repeat": 3, "prompt": "Name one random sport. Answer with one word only.", "response": "Rugby."}
+{"endpoint": "ref-09", "id": "12", "repeat": 3, "prompt": "Name one random sport. Answer with one word only.", "response": "Rink!"}
+{"endpoint": "ref-01", "id": "13", "repeat": 3, "prompt": "Name one random flower. Answer with one word only.", "response": "Herb"}
+{"endpoint": "ref-02", "id": "13", "repeat": 3, "prompt": "Name one random flower. Answer with one word only.", "response": "Petunia"}
+{"endpoint": "ref-03", "id": "13", "repeat": 3, "prompt": "Name one random flower. Answer with one word only.", "response": "Petal"}
+{"endpoint": "ref-04", "id": "13", "repeat": 3, "prompt": "Name one random flower. Answer with one word only.", "response": "Rose."}
+{"endpoint": "ref-05", "id": "13", "repeat": 3, "prompt": "Name one random flower. Answer with one word only.", "response": "A."}
+{"endpoint": "ref-06", "id": "13", "repeat": 3, "prompt": "Name one random flower. Answer with one word only.", "response": "[Flower]"}
+{"endpoint": "ref-07", "id": "13", "repeat": 3, "prompt": "Name one random flower. Answer with one word only.", "response": "Orange. The flower is orange. With its bright colors and beauty, it"}
+{"endpoint": "ref-08", "id": "13", "repeat": 3, "prompt": "Name one random flower. Answer with one word only.", "response": "Blooming-Scented Bloom Lovely Lilies"}
+{"endpoint": "ref-09", "id": "13", "repeat": 3, "prompt": "Name one random flower. Answer with one word only.", "response": "Wildflower"}
+{"endpoint": "ref-01", "id": "14", "repeat": 3, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen"}
+{"endpoint": "ref-02", "id": "14", "repeat": 3, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen"}
+{"endpoint": "ref-03", "id": "14", "repeat": 3, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Element 127."}
+{"endpoint": "ref-04", "id": "14", "repeat": 3, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen."}
+{"endpoint": "ref-05", "id": "14", "repeat": 3, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen"}
+{"endpoint": "ref-06", "id": "14", "repeat": 3, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen"}
+{"endpoint": "ref-07", "id": "14", "repeat": 3, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen. It is an element that makes up about 45% of"}
+{"endpoint": "ref-08", "id": "14", "repeat": 3, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Xelement"}
+{"endpoint": "ref-09", "id": "14", "repeat": 3, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Hydrogen."}
+{"endpoint": "ref-01", "id": "15", "repeat": 3, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday"}
+{"endpoint": "ref-02", "id": "15", "repeat": 3, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday"}
+{"endpoint": "ref-03", "id": "15", "repeat": 3, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Sun."}
+{"endpoint": "ref-04", "id": "15", "repeat": 3, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday."}
+{"endpoint": "ref-05", "id": "15", "repeat": 3, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Mon"}
+{"endpoint": "ref-06", "id": "15", "repeat": 3, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "[random day of the week]"}
+{"endpoint": "ref-07", "id": "15", "repeat": 3, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday. Question: Pick a random day of the week.\n\nAnswer:"}
+{"endpoint": "ref-08", "id": "15", "repeat": 3, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "monday"}
+{"endpoint": "ref-09", "id": "15", "repeat": 3, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Sun."}
+{"endpoint": "ref-01", "id": "16", "repeat": 3, "prompt": "Pick a random month. Answer with one word only.", "response": "Numbered"}
+{"endpoint": "ref-02", "id": "16", "repeat": 3, "prompt": "Pick a random month. Answer with one word only.", "response": "January"}
+{"endpoint": "ref-03", "id": "16", "repeat": 3, "prompt": "Pick a random month. Answer with one word only.", "response": "Jan"}
+{"endpoint": "ref-04", "id": "16", "repeat": 3, "prompt": "Pick a random month. Answer with one word only.", "response": "January."}
+{"endpoint": "ref-05", "id": "16", "repeat": 3, "prompt": "Pick a random month. Answer with one word only.", "response": "January"}
+{"endpoint": "ref-06", "id": "16", "repeat": 3, "prompt": "Pick a random month. Answer with one word only.", "response": "January"}
+{"endpoint": "ref-07", "id": "16", "repeat": 3, "prompt": "Pick a random month. Answer with one word only.", "response": "April. Is it interesting? April. Is it interesting?"}
+{"endpoint": "ref-08", "id": "16", "repeat": 3, "prompt": "Pick a random month. Answer with one word only.", "response": "August"}
+{"endpoint": "ref-09", "id": "16", "repeat": 3, "prompt": "Pick a random month. Answer with one word only.", "response": "January."}
+{"endpoint": "ref-01", "id": "17", "repeat": 3, "prompt": "Name one random emotion. Answer with one word only.", "response": "Sulfuratory"}
+{"endpoint": "ref-02", "id": "17", "repeat": 3, "prompt": "Name one random emotion. Answer with one word only.", "response": "Isolation"}
+{"endpoint": "ref-03", "id": "17", "repeat": 3, "prompt": "Name one random emotion. Answer with one word only.", "response": "One random emotion is Fear."}
+{"endpoint": "ref-04", "id": "17", "repeat": 3, "prompt": "Name one random emotion. Answer with one word only.", "response": "Sadness."}
+{"endpoint": "ref-05", "id": "17", "repeat": 3, "prompt": "Name one random emotion. Answer with one word only.", "response": "Anxiety"}
+{"endpoint": "ref-06", "id": "17", "repeat": 3, "prompt": "Name one random emotion. Answer with one word only.", "response": "Fear."}
+{"endpoint": "ref-07", "id": "17", "repeat": 3, "prompt": "Name one random emotion. Answer with one word only.", "response": "Fear.\n\nOne random emotion is fear. It is an instinctual response"}
+{"endpoint": "ref-08", "id": "17", "repeat": 3, "prompt": "Name one random emotion. Answer with one word only.", "response": "Greach (GREATH)"}
+{"endpoint": "ref-09", "id": "17", "repeat": 3, "prompt": "Name one random emotion. Answer with one word only.", "response": "Happiness."}
+{"endpoint": "ref-01", "id": "18", "repeat": 3, "prompt": "Name one random profession. Answer with one word only.", "response": "Rapper"}
+{"endpoint": "ref-02", "id": "18", "repeat": 3, "prompt": "Name one random profession. Answer with one word only.", "response": "Cleaner"}
+{"endpoint": "ref-03", "id": "18", "repeat": 3, "prompt": "Name one random profession. Answer with one word only.", "response": "One random profession is a \"Scientist.\""}
+{"endpoint": "ref-04", "id": "18", "repeat": 3, "prompt": "Name one random profession. Answer with one word only.", "response": "Art."}
+{"endpoint": "ref-05", "id": "18", "repeat": 3, "prompt": "Name one random profession. Answer with one word only.", "response": "Artist"}
+{"endpoint": "ref-06", "id": "18", "repeat": 3, "prompt": "Name one random profession. Answer with one word only.", "response": "Machine learning"}
+{"endpoint": "ref-07", "id": "18", "repeat": 3, "prompt": "Name one random profession. Answer with one word only.", "response": "Businesses. (1) Businesses are one of the most common professions in the"}
+{"endpoint": "ref-08", "id": "18", "repeat": 3, "prompt": "Name one random profession. Answer with one word only.", "response": "Shepherd"}
+{"endpoint": "ref-09", "id": "18", "repeat": 3, "prompt": "Name one random profession. Answer with one word only.", "response": "Data Scientist."}
+{"endpoint": "ref-01", "id": "19", "repeat": 3, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Hamster."}
+{"endpoint": "ref-02", "id": "19", "repeat": 3, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "(1.) Knife"}
+{"endpoint": "ref-03", "id": "19", "repeat": 3, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "* Object: Knife"}
+{"endpoint": "ref-04", "id": "19", "repeat": 3, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "oven."}
+{"endpoint": "ref-05", "id": "19", "repeat": 3, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "A blender"}
+{"endpoint": "ref-06", "id": "19", "repeat": 3, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Anything from a coffee mug to a tea towel"}
+{"endpoint": "ref-07", "id": "19", "repeat": 3, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Kitchen. One word only. The kitchen is a well-known place for"}
+{"endpoint": "ref-08", "id": "19", "repeat": 3, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Menu"}
+{"endpoint": "ref-09", "id": "19", "repeat": 3, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Tongs."}
+{"endpoint": "ref-01", "id": "0", "repeat": 4, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-02", "id": "0", "repeat": 4, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "0."}
+{"endpoint": "ref-03", "id": "0", "repeat": 4, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "I'd say 50."}
+{"endpoint": "ref-04", "id": "0", "repeat": 4, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "66."}
+{"endpoint": "ref-05", "id": "0", "repeat": 4, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-06", "id": "0", "repeat": 4, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1234567890101112"}
+{"endpoint": "ref-07", "id": "0", "repeat": 4, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "100.   \n\nAlso, please provide me the answer as a"}
+{"endpoint": "ref-08", "id": "0", "repeat": 4, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "0."}
+{"endpoint": "ref-09", "id": "0", "repeat": 4, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "50."}
+{"endpoint": "ref-01", "id": "1", "repeat": 4, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1000"}
+{"endpoint": "ref-02", "id": "1", "repeat": 4, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-03", "id": "1", "repeat": 4, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-04", "id": "1", "repeat": 4, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1. I am happy to hear that you're interested in picking a random number"}
+{"endpoint": "ref-05", "id": "1", "repeat": 4, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-06", "id": "1", "repeat": 4, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1000"}
+{"endpoint": "ref-07", "id": "1", "repeat": 4, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "The number is 494."}
+{"endpoint": "ref-08", "id": "1", "repeat": 4, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "379"}
+{"endpoint": "ref-09", "id": "1", "repeat": 4, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-01", "id": "2", "repeat": 4, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-02", "id": "2", "repeat": 4, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "64"}
+{"endpoint": "ref-03", "id": "2", "repeat": 4, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-04", "id": "2", "repeat": 4, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "50."}
+{"endpoint": "ref-05", "id": "2", "repeat": 4, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-06", "id": "2", "repeat": 4, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "4."}
+{"endpoint": "ref-07", "id": "2", "repeat": 4, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "I'm sorry, but I'm unable to determine the number you want. Can"}
+{"endpoint": "ref-08", "id": "2", "repeat": 4, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-09", "id": "2", "repeat": 4, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "12."}
+{"endpoint": "ref-01", "id": "3", "repeat": 4, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-02", "id": "3", "repeat": 4, "prompt": "Name one random animal. Answer with one word only.", "response": "A. Zebra"}
+{"endpoint": "ref-03", "id": "3", "repeat": 4, "prompt": "Name one random animal. Answer with one word only.", "response": "Animal."}
+{"endpoint": "ref-04", "id": "3", "repeat": 4, "prompt": "Name one random animal. Answer with one word only.", "response": "Panda."}
+{"endpoint": "ref-05", "id": "3", "repeat": 4, "prompt": "Name one random animal. Answer with one word only.", "response": "Panda"}
+{"endpoint": "ref-06", "id": "3", "repeat": 4, "prompt": "Name one random animal. Answer with one word only.", "response": "Dog."}
+{"endpoint": "ref-07", "id": "3", "repeat": 4, "prompt": "Name one random animal. Answer with one word only.", "response": "Animal. One word is animal. Can you tell me where most animals live?"}
+{"endpoint": "ref-08", "id": "3", "repeat": 4, "prompt": "Name one random animal. Answer with one word only.", "response": "Animal."}
+{"endpoint": "ref-09", "id": "3", "repeat": 4, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-01", "id": "4", "repeat": 4, "prompt": "Name one random fruit. Answer with one word only.", "response": "Apple"}
+{"endpoint": "ref-02", "id": "4", "repeat": 4, "prompt": "Name one random fruit. Answer with one word only.", "response": "Apricot"}
+{"endpoint": "ref-03", "id": "4", "repeat": 4, "prompt": "Name one random fruit. Answer with one word only.", "response": "Apples."}
+{"endpoint": "ref-04", "id": "4", "repeat": 4, "prompt": "Name one random fruit. Answer with one word only.", "response": "Apple."}
+{"endpoint": "ref-05", "id": "4", "repeat": 4, "prompt": "Name one random fruit. Answer with one word only.", "response": "Pear"}
+{"endpoint": "ref-06", "id": "4", "repeat": 4, "prompt": "Name one random fruit. Answer with one word only.", "response": "Apple"}
+{"endpoint": "ref-07", "id": "4", "repeat": 4, "prompt": "Name one random fruit. Answer with one word only.", "response": "Fruit. How about another fruit, or maybe the one you can pick yourself?"}
+{"endpoint": "ref-08", "id": "4", "repeat": 4, "prompt": "Name one random fruit. Answer with one word only.", "response": "Squash"}
+{"endpoint": "ref-09", "id": "4", "repeat": 4, "prompt": "Name one random fruit. Answer with one word only.", "response": "Apple"}
+{"endpoint": "ref-01", "id": "5", "repeat": 4, "prompt": "Name one random color. Answer with one word only.", "response": "Blue"}
+{"endpoint": "ref-02", "id": "5", "repeat": 4, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-03", "id": "5", "repeat": 4, "prompt": "Name one random color. Answer with one word only.", "response": "Red."}
+{"endpoint": "ref-04", "id": "5", "repeat": 4, "prompt": "Name one random color. Answer with one word only.", "response": "Blue."}
+{"endpoint": "ref-05", "id": "5", "repeat": 4, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-06", "id": "5", "repeat": 4, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-07", "id": "5", "repeat": 4, "prompt": "Name one random color. Answer with one word only.", "response": "Red. It is the color of passion and excitement. Red is the most vibrant"}
+{"endpoint": "ref-08", "id": "5", "repeat": 4, "prompt": "Name one random color. Answer with one word only.", "response": "London"}
+{"endpoint": "ref-09", "id": "5", "repeat": 4, "prompt": "Name one random color. Answer with one word only.", "response": "Red."}
+{"endpoint": "ref-01", "id": "6", "repeat": 4, "prompt": "Name one random city. Answer with one word only.", "response": "Hmm, I don't have any examples of random cities, so I'll"}
+{"endpoint": "ref-02", "id": "6", "repeat": 4, "prompt": "Name one random city. Answer with one word only.", "response": "Paris"}
+{"endpoint": "ref-03", "id": "6", "repeat": 4, "prompt": "Name one random city. Answer with one word only.", "response": "One random city is Berlin."}
+{"endpoint": "ref-04", "id": "6", "repeat": 4, "prompt": "Name one random city. Answer with one word only.", "response": "New York."}
+{"endpoint": "ref-05", "id": "6", "repeat": 4, "prompt": "Name one random city. Answer with one word only.", "response": "Downtown."}
+{"endpoint": "ref-06", "id": "6", "repeat": 4, "prompt": "Name one random city. Answer with one word only.", "response": "Hmm, I'm not sure I understand the question. Can you please provide"}
+{"endpoint": "ref-07", "id": "6", "repeat": 4, "prompt": "Name one random city. Answer with one word only.", "response": "New York. It is the name of one of the world's most famous cities"}
+{"endpoint": "ref-08", "id": "6", "repeat": 4, "prompt": "Name one random city. Answer with one word only.", "response": "Port City"}
+{"endpoint": "ref-09", "id": "6", "repeat": 4, "prompt": "Name one random city. Answer with one word only.", "response": "New York"}
+{"endpoint": "ref-01", "id": "7", "repeat": 4, "prompt": "Name one random country. Answer with one word only.", "response": "Nigeria"}
+{"endpoint": "ref-02", "id": "7", "repeat": 4, "prompt": "Name one random country. Answer with one word only.", "response": "Namrt."}
+{"endpoint": "ref-03", "id": "7", "repeat": 4, "prompt": "Name one random country. Answer with one word only.", "response": "Netherlands"}
+{"endpoint": "ref-04", "id": "7", "repeat": 4, "prompt": "Name one random country. Answer with one word only.", "response": "Spain. One word."}
+{"endpoint": "ref-05", "id": "7", "repeat": 4, "prompt": "Name one random country. Answer with one word only.", "response": "Afghanistan"}
+{"endpoint": "ref-06", "id": "7", "repeat": 4, "prompt": "Name one random country. Answer with one word only.", "response": "Australia"}
+{"endpoint": "ref-07", "id": "7", "repeat": 4, "prompt": "Name one random country. Answer with one word only.", "response": "India. It is one of the most significant countries in South Asia. It is"}
+{"endpoint": "ref-08", "id": "7", "repeat": 4, "prompt": "Name one random country. Answer with one word only.", "response": "Afghanistan"}
+{"endpoint": "ref-09", "id": "7", "repeat": 4, "prompt": "Name one random country. Answer with one word only.", "response": "United Kingdom."}
+{"endpoint": "ref-01", "id": "8", "repeat": 4, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-02", "id": "8", "repeat": 4, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-03", "id": "8", "repeat": 4, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A."}
+{"endpoint": "ref-04", "id": "8", "repeat": 4, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A."}
+{"endpoint": "ref-05", "id": "8", "repeat": 4, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-06", "id": "8", "repeat": 4, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-07", "id": "8", "repeat": 4, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "The letter A. It is the first letter of the alphabet and commonly used for"}
+{"endpoint": "ref-08", "id": "8", "repeat": 4, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "M"}
+{"endpoint": "ref-09", "id": "8", "repeat": 4, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "a."}
+{"endpoint": "ref-01", "id": "9", "repeat": 4, "prompt": "Give one random first name. Answer with one word only.", "response": "James"}
+{"endpoint": "ref-02", "id": "9", "repeat": 4, "prompt": "Give one random first name. Answer with one word only.", "response": "Elmis"}
+{"endpoint": "ref-03", "id": "9", "repeat": 4, "prompt": "Give one random first name. Answer with one word only.", "response": "Is there a specific first name the user is looking for?"}
+{"endpoint": "ref-04", "id": "9", "repeat": 4, "prompt": "Give one random first name. Answer with one word only.", "response": "George"}
+{"endpoint": "ref-05", "id": "9", "repeat": 4, "prompt": "Give one random first name. Answer with one word only.", "response": "\"Vintage Car Exchange\""}
+{"endpoint": "ref-06", "id": "9", "repeat": 4, "prompt": "Give one random first name. Answer with one word only.", "response": "[Your Name]"}
+{"endpoint": "ref-07", "id": "9", "repeat": 4, "prompt": "Give one random first name. Answer with one word only.", "response": "\"A\" is your first name. What's your name?"}
+{"endpoint": "ref-08", "id": "9", "repeat": 4, "prompt": "Give one random first name. Answer with one word only.", "response": "Rubens"}
+{"endpoint": "ref-09", "id": "9", "repeat": 4, "prompt": "Give one random first name. Answer with one word only.", "response": "Hello!"}
+{"endpoint": "ref-01", "id": "10", "repeat": 4, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Apricot."}
+{"endpoint": "ref-02", "id": "10", "repeat": 4, "prompt": "Name one random vegetable. Answer with one word only.", "response": "B."}
+{"endpoint": "ref-03", "id": "10", "repeat": 4, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Root vegetable"}
+{"endpoint": "ref-04", "id": "10", "repeat": 4, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Baked."}
+{"endpoint": "ref-05", "id": "10", "repeat": 4, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Broccoli."}
+{"endpoint": "ref-06", "id": "10", "repeat": 4, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Spinach"}
+{"endpoint": "ref-07", "id": "10", "repeat": 4, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Root vegetable. 1.) Root vegetables are the edible edible roots of plants,"}
+{"endpoint": "ref-08", "id": "10", "repeat": 4, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Strawberry"}
+{"endpoint": "ref-09", "id": "10", "repeat": 4, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Bitter."}
+{"endpoint": "ref-01", "id": "11", "repeat": 4, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Notification."}
+{"endpoint": "ref-02", "id": "11", "repeat": 4, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "(1) Guitar"}
+{"endpoint": "ref-03", "id": "11", "repeat": 4, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Percussion"}
+{"endpoint": "ref-04", "id": "11", "repeat": 4, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Bass."}
+{"endpoint": "ref-05", "id": "11", "repeat": 4, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "The violin"}
+{"endpoint": "ref-06", "id": "11", "repeat": 4, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Percussion"}
+{"endpoint": "ref-07", "id": "11", "repeat": 4, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "1. Piano. It is a musical instrument that plays notes by pressing keys."}
+{"endpoint": "ref-08", "id": "11", "repeat": 4, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Bokashi"}
+{"endpoint": "ref-09", "id": "11", "repeat": 4, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Cello."}
+{"endpoint": "ref-01", "id": "12", "repeat": 4, "prompt": "Name one random sport. Answer with one word only.", "response": "Football"}
+{"endpoint": "ref-02", "id": "12", "repeat": 4, "prompt": "Name one random sport. Answer with one word only.", "response": "Roller Skating"}
+{"endpoint": "ref-03", "id": "12", "repeat": 4, "prompt": "Name one random sport. Answer with one word only.", "response": "Soccer"}
+{"endpoint": "ref-04", "id": "12", "repeat": 4, "prompt": "Name one random sport. Answer with one word only.", "response": "Soccer (Football)"}
+{"endpoint": "ref-05", "id": "12", "repeat": 4, "prompt": "Name one random sport. Answer with one word only.", "response": "Soccer"}
+{"endpoint": "ref-06", "id": "12", "repeat": 4, "prompt": "Name one random sport. Answer with one word only.", "response": "Football"}
+{"endpoint": "ref-07", "id": "12", "repeat": 4, "prompt": "Name one random sport. Answer with one word only.", "response": "Soccer. Share one of the fastest growing sports globally. More than 3"}
+{"endpoint": "ref-08", "id": "12", "repeat": 4, "prompt": "Name one random sport. Answer with one word only.", "response": "Football."}
+{"endpoint": "ref-09", "id": "12", "repeat": 4, "prompt": "Name one random sport. Answer with one word only.", "response": "Football"}
+{"endpoint": "ref-01", "id": "13", "repeat": 4, "prompt": "Name one random flower. Answer with one word only.", "response": "Petunia"}
+{"endpoint": "ref-02", "id": "13", "repeat": 4, "prompt": "Name one random flower. Answer with one word only.", "response": "Daffodil"}
+{"endpoint": "ref-03", "id": "13", "repeat": 4, "prompt": "Name one random flower. Answer with one word only.", "response": "Gilly."}
+{"endpoint": "ref-04", "id": "13", "repeat": 4, "prompt": "Name one random flower. Answer with one word only.", "response": "Flowers!"}
+{"endpoint": "ref-05", "id": "13", "repeat": 4, "prompt": "Name one random flower. Answer with one word only.", "response": "Petal"}
+{"endpoint": "ref-06", "id": "13", "repeat": 4, "prompt": "Name one random flower. Answer with one word only.", "response": "Petal"}
+{"endpoint": "ref-07", "id": "13", "repeat": 4, "prompt": "Name one random flower. Answer with one word only.", "response": "FLOWER! 🌸🌸🌸🌸"}
+{"endpoint": "ref-08", "id": "13", "repeat": 4, "prompt": "Name one random flower. Answer with one word only.", "response": "Chrysalis"}
+{"endpoint": "ref-09", "id": "13", "repeat": 4, "prompt": "Name one random flower. Answer with one word only.", "response": "Cacti."}
+{"endpoint": "ref-01", "id": "14", "repeat": 4, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen."}
+{"endpoint": "ref-02", "id": "14", "repeat": 4, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen."}
+{"endpoint": "ref-03", "id": "14", "repeat": 4, "prompt": "Name one random chemical element. Answer with one word only.", "response": "One random chemical element is gold."}
+{"endpoint": "ref-04", "id": "14", "repeat": 4, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen."}
+{"endpoint": "ref-05", "id": "14", "repeat": 4, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen"}
+{"endpoint": "ref-06", "id": "14", "repeat": 4, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen"}
+{"endpoint": "ref-07", "id": "14", "repeat": 4, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen."}
+{"endpoint": "ref-08", "id": "14", "repeat": 4, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Carbon"}
+{"endpoint": "ref-09", "id": "14", "repeat": 4, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen"}
+{"endpoint": "ref-01", "id": "15", "repeat": 4, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Sunday"}
+{"endpoint": "ref-02", "id": "15", "repeat": 4, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Today is a Monday."}
+{"endpoint": "ref-03", "id": "15", "repeat": 4, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday."}
+{"endpoint": "ref-04", "id": "15", "repeat": 4, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Sun."}
+{"endpoint": "ref-05", "id": "15", "repeat": 4, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "MORNING."}
+{"endpoint": "ref-06", "id": "15", "repeat": 4, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "[random day of the week]"}
+{"endpoint": "ref-07", "id": "15", "repeat": 4, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday. The word chosen is \"Monday\". Monday is the first day of the"}
+{"endpoint": "ref-08", "id": "15", "repeat": 4, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Sunday"}
+{"endpoint": "ref-09", "id": "15", "repeat": 4, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday."}
+{"endpoint": "ref-01", "id": "16", "repeat": 4, "prompt": "Pick a random month. Answer with one word only.", "response": "January"}
+{"endpoint": "ref-02", "id": "16", "repeat": 4, "prompt": "Pick a random month. Answer with one word only.", "response": "April"}
+{"endpoint": "ref-03", "id": "16", "repeat": 4, "prompt": "Pick a random month. Answer with one word only.", "response": "January"}
+{"endpoint": "ref-04", "id": "16", "repeat": 4, "prompt": "Pick a random month. Answer with one word only.", "response": "June."}
+{"endpoint": "ref-05", "id": "16", "repeat": 4, "prompt": "Pick a random month. Answer with one word only.", "response": "YEAR"}
+{"endpoint": "ref-06", "id": "16", "repeat": 4, "prompt": "Pick a random month. Answer with one word only.", "response": "January"}
+{"endpoint": "ref-07", "id": "16", "repeat": 4, "prompt": "Pick a random month. Answer with one word only.", "response": "January. One word: January."}
+{"endpoint": "ref-08", "id": "16", "repeat": 4, "prompt": "Pick a random month. Answer with one word only.", "response": "January"}
+{"endpoint": "ref-09", "id": "16", "repeat": 4, "prompt": "Pick a random month. Answer with one word only.", "response": "January."}
+{"endpoint": "ref-01", "id": "17", "repeat": 4, "prompt": "Name one random emotion. Answer with one word only.", "response": "Fear"}
+{"endpoint": "ref-02", "id": "17", "repeat": 4, "prompt": "Name one random emotion. Answer with one word only.", "response": "Sadness"}
+{"endpoint": "ref-03", "id": "17", "repeat": 4, "prompt": "Name one random emotion. Answer with one word only.", "response": "Trust."}
+{"endpoint": "ref-04", "id": "17", "repeat": 4, "prompt": "Name one random emotion. Answer with one word only.", "response": "Sadness."}
+{"endpoint": "ref-05", "id": "17", "repeat": 4, "prompt": "Name one random emotion. Answer with one word only.", "response": "Inhilaration."}
+{"endpoint": "ref-06", "id": "17", "repeat": 4, "prompt": "Name one random emotion. Answer with one word only.", "response": "Fear"}
+{"endpoint": "ref-07", "id": "17", "repeat": 4, "prompt": "Name one random emotion. Answer with one word only.", "response": "Melancholy."}
+{"endpoint": "ref-08", "id": "17", "repeat": 4, "prompt": "Name one random emotion. Answer with one word only.", "response": "Fear"}
+{"endpoint": "ref-09", "id": "17", "repeat": 4, "prompt": "Name one random emotion. Answer with one word only.", "response": "Fear"}
+{"endpoint": "ref-01", "id": "18", "repeat": 4, "prompt": "Name one random profession. Answer with one word only.", "response": "\"Tutoring\""}
+{"endpoint": "ref-02", "id": "18", "repeat": 4, "prompt": "Name one random profession. Answer with one word only.", "response": "Fashion design"}
+{"endpoint": "ref-03", "id": "18", "repeat": 4, "prompt": "Name one random profession. Answer with one word only.", "response": "Carpenter"}
+{"endpoint": "ref-04", "id": "18", "repeat": 4, "prompt": "Name one random profession. Answer with one word only.", "response": "Automotive."}
+{"endpoint": "ref-05", "id": "18", "repeat": 4, "prompt": "Name one random profession. Answer with one word only.", "response": "Artist"}
+{"endpoint": "ref-06", "id": "18", "repeat": 4, "prompt": "Name one random profession. Answer with one word only.", "response": "Machine learning"}
+{"endpoint": "ref-07", "id": "18", "repeat": 4, "prompt": "Name one random profession. Answer with one word only.", "response": "Scientist."}
+{"endpoint": "ref-08", "id": "18", "repeat": 4, "prompt": "Name one random profession. Answer with one word only.", "response": "\"Engineer.\""}
+{"endpoint": "ref-09", "id": "18", "repeat": 4, "prompt": "Name one random profession. Answer with one word only.", "response": "Tech."}
+{"endpoint": "ref-01", "id": "19", "repeat": 4, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Muffin tin."}
+{"endpoint": "ref-02", "id": "19", "repeat": 4, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Cup."}
+{"endpoint": "ref-03", "id": "19", "repeat": 4, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "The one random object in a kitchen is a toaster."}
+{"endpoint": "ref-04", "id": "19", "repeat": 4, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Oven."}
+{"endpoint": "ref-05", "id": "19", "repeat": 4, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Kitchen"}
+{"endpoint": "ref-06", "id": "19", "repeat": 4, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Hairbrush."}
+{"endpoint": "ref-07", "id": "19", "repeat": 4, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Tapboard. Let me know what you think."}
+{"endpoint": "ref-08", "id": "19", "repeat": 4, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Hanging dismisser"}
+{"endpoint": "ref-09", "id": "19", "repeat": 4, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Induction."}
+{"endpoint": "ref-01", "id": "0", "repeat": 5, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "100"}
+{"endpoint": "ref-02", "id": "0", "repeat": 5, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-03", "id": "0", "repeat": 5, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "I'll just keep my responses light and brief. The number is 42"}
+{"endpoint": "ref-04", "id": "0", "repeat": 5, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "100."}
+{"endpoint": "ref-05", "id": "0", "repeat": 5, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-06", "id": "0", "repeat": 5, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1234567890"}
+{"endpoint": "ref-07", "id": "0", "repeat": 5, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1. Pick a random number between 1 and 100 and answer"}
+{"endpoint": "ref-08", "id": "0", "repeat": 5, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "28"}
+{"endpoint": "ref-09", "id": "0", "repeat": 5, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1234567890123456"}
+{"endpoint": "ref-01", "id": "1", "repeat": 5, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1692255"}
+{"endpoint": "ref-02", "id": "1", "repeat": 5, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "The number 3."}
+{"endpoint": "ref-03", "id": "1", "repeat": 5, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "I'd say the number is 120."}
+{"endpoint": "ref-04", "id": "1", "repeat": 5, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1000."}
+{"endpoint": "ref-05", "id": "1", "repeat": 5, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-06", "id": "1", "repeat": 5, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1000"}
+{"endpoint": "ref-07", "id": "1", "repeat": 5, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "When asked to pick a random number between 1 and 1000"}
+{"endpoint": "ref-08", "id": "1", "repeat": 5, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-09", "id": "1", "repeat": 5, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1000"}
+{"endpoint": "ref-01", "id": "2", "repeat": 5, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-02", "id": "2", "repeat": 5, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-03", "id": "2", "repeat": 5, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "77."}
+{"endpoint": "ref-04", "id": "2", "repeat": 5, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "3. This is a number between 1 and 50. I hope"}
+{"endpoint": "ref-05", "id": "2", "repeat": 5, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "5"}
+{"endpoint": "ref-06", "id": "2", "repeat": 5, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-07", "id": "2", "repeat": 5, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "I am unable to answer that question. Please provide the next number. The question"}
+{"endpoint": "ref-08", "id": "2", "repeat": 5, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-09", "id": "2", "repeat": 5, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-01", "id": "3", "repeat": 5, "prompt": "Name one random animal. Answer with one word only.", "response": "Giraffe."}
+{"endpoint": "ref-02", "id": "3", "repeat": 5, "prompt": "Name one random animal. Answer with one word only.", "response": "A. Gazelle"}
+{"endpoint": "ref-03", "id": "3", "repeat": 5, "prompt": "Name one random animal. Answer with one word only.", "response": "Fish."}
+{"endpoint": "ref-04", "id": "3", "repeat": 5, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant."}
+{"endpoint": "ref-05", "id": "3", "repeat": 5, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-06", "id": "3", "repeat": 5, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-07", "id": "3", "repeat": 5, "prompt": "Name one random animal. Answer with one word only.", "response": "Bird. Just one word about birds, they are amazing and unique creatures. They"}
+{"endpoint": "ref-08", "id": "3", "repeat": 5, "prompt": "Name one random animal. Answer with one word only.", "response": "Monkey"}
+{"endpoint": "ref-09", "id": "3", "repeat": 5, "prompt": "Name one random animal. Answer with one word only.", "response": "Let's go!"}
+{"endpoint": "ref-01", "id": "4", "repeat": 5, "prompt": "Name one random fruit. Answer with one word only.", "response": "Pomegranate"}
+{"endpoint": "ref-02", "id": "4", "repeat": 5, "prompt": "Name one random fruit. Answer with one word only.", "response": "Apple"}
+{"endpoint": "ref-03", "id": "4", "repeat": 5, "prompt": "Name one random fruit. Answer with one word only.", "response": "Citrus"}
+{"endpoint": "ref-04", "id": "4", "repeat": 5, "prompt": "Name one random fruit. Answer with one word only.", "response": "Apple."}
+{"endpoint": "ref-05", "id": "4", "repeat": 5, "prompt": "Name one random fruit. Answer with one word only.", "response": "Banana."}
+{"endpoint": "ref-06", "id": "4", "repeat": 5, "prompt": "Name one random fruit. Answer with one word only.", "response": "The one word answer is \"Banana.\""}
+{"endpoint": "ref-07", "id": "4", "repeat": 5, "prompt": "Name one random fruit. Answer with one word only.", "response": "Fruit."}
+{"endpoint": "ref-08", "id": "4", "repeat": 5, "prompt": "Name one random fruit. Answer with one word only.", "response": "Urk, won't you consume that?"}
+{"endpoint": "ref-09", "id": "4", "repeat": 5, "prompt": "Name one random fruit. Answer with one word only.", "response": "Fruit!"}
+{"endpoint": "ref-01", "id": "5", "repeat": 5, "prompt": "Name one random color. Answer with one word only.", "response": "Muted"}
+{"endpoint": "ref-02", "id": "5", "repeat": 5, "prompt": "Name one random color. Answer with one word only.", "response": "Red."}
+{"endpoint": "ref-03", "id": "5", "repeat": 5, "prompt": "Name one random color. Answer with one word only.", "response": "Blue"}
+{"endpoint": "ref-04", "id": "5", "repeat": 5, "prompt": "Name one random color. Answer with one word only.", "response": "Red."}
+{"endpoint": "ref-05", "id": "5", "repeat": 5, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-06", "id": "5", "repeat": 5, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-07", "id": "5", "repeat": 5, "prompt": "Name one random color. Answer with one word only.", "response": "Blue. 1. No, there is none. No, there is none"}
+{"endpoint": "ref-08", "id": "5", "repeat": 5, "prompt": "Name one random color. Answer with one word only.", "response": "Blue"}
+{"endpoint": "ref-09", "id": "5", "repeat": 5, "prompt": "Name one random color. Answer with one word only.", "response": "Red."}
+{"endpoint": "ref-01", "id": "6", "repeat": 5, "prompt": "Name one random city. Answer with one word only.", "response": "Manhattan"}
+{"endpoint": "ref-02", "id": "6", "repeat": 5, "prompt": "Name one random city. Answer with one word only.", "response": "Hangzhou"}
+{"endpoint": "ref-03", "id": "6", "repeat": 5, "prompt": "Name one random city. Answer with one word only.", "response": "Anywhere."}
+{"endpoint": "ref-04", "id": "6", "repeat": 5, "prompt": "Name one random city. Answer with one word only.", "response": "New York."}
+{"endpoint": "ref-05", "id": "6", "repeat": 5, "prompt": "Name one random city. Answer with one word only.", "response": "New York"}
+{"endpoint": "ref-06", "id": "6", "repeat": 5, "prompt": "Name one random city. Answer with one word only.", "response": "[City]"}
+{"endpoint": "ref-07", "id": "6", "repeat": 5, "prompt": "Name one random city. Answer with one word only.", "response": "Shanghai. This city is known for its advanced technology, bustling markets and"}
+{"endpoint": "ref-08", "id": "6", "repeat": 5, "prompt": "Name one random city. Answer with one word only.", "response": "A!"}
+{"endpoint": "ref-09", "id": "6", "repeat": 5, "prompt": "Name one random city. Answer with one word only.", "response": "Tokyo."}
+{"endpoint": "ref-01", "id": "7", "repeat": 5, "prompt": "Name one random country. Answer with one word only.", "response": "Netherlands"}
+{"endpoint": "ref-02", "id": "7", "repeat": 5, "prompt": "Name one random country. Answer with one word only.", "response": "germany"}
+{"endpoint": "ref-03", "id": "7", "repeat": 5, "prompt": "Name one random country. Answer with one word only.", "response": "One random country is Greece."}
+{"endpoint": "ref-04", "id": "7", "repeat": 5, "prompt": "Name one random country. Answer with one word only.", "response": "Spain."}
+{"endpoint": "ref-05", "id": "7", "repeat": 5, "prompt": "Name one random country. Answer with one word only.", "response": "Chile"}
+{"endpoint": "ref-06", "id": "7", "repeat": 5, "prompt": "Name one random country. Answer with one word only.", "response": "None"}
+{"endpoint": "ref-07", "id": "7", "repeat": 5, "prompt": "Name one random country. Answer with one word only.", "response": "Brazil. It is located in the western hemisphere. The country has a very diverse"}
+{"endpoint": "ref-08", "id": "7", "repeat": 5, "prompt": "Name one random country. Answer with one word only.", "response": "Natacha"}
+{"endpoint": "ref-09", "id": "7", "repeat": 5, "prompt": "Name one random country. Answer with one word only.", "response": "Argentina."}
+{"endpoint": "ref-01", "id": "8", "repeat": 5, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-02", "id": "8", "repeat": 5, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "I'm not trained to read or write."}
+{"endpoint": "ref-03", "id": "8", "repeat": 5, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-04", "id": "8", "repeat": 5, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "a."}
+{"endpoint": "ref-05", "id": "8", "repeat": 5, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-06", "id": "8", "repeat": 5, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "M"}
+{"endpoint": "ref-07", "id": "8", "repeat": 5, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A. A is the first letter of the English alphabet. It is also the"}
+{"endpoint": "ref-08", "id": "8", "repeat": 5, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-09", "id": "8", "repeat": 5, "prompt": "Pick a random letter of the English alphabet. Answer with only the letter.", "response": "H"}
+{"endpoint": "ref-01", "id": "9", "repeat": 5, "prompt": "Give one random first name. Answer with one word only.", "response": "Hu"}
+{"endpoint": "ref-02", "id": "9", "repeat": 5, "prompt": "Give one random first name. Answer with one word only.", "response": "Lux"}
+{"endpoint": "ref-03", "id": "9", "repeat": 5, "prompt": "Give one random first name. Answer with one word only.", "response": "I'll give you a random first name and its corresponding word. Let me see"}
+{"endpoint": "ref-04", "id": "9", "repeat": 5, "prompt": "Give one random first name. Answer with one word only.", "response": "\"Can't\""}
+{"endpoint": "ref-05", "id": "9", "repeat": 5, "prompt": "Give one random first name. Answer with one word only.", "response": "Verdi"}
+{"endpoint": "ref-06", "id": "9", "repeat": 5, "prompt": "Give one random first name. Answer with one word only.", "response": "Em."}
+{"endpoint": "ref-07", "id": "9", "repeat": 5, "prompt": "Give one random first name. Answer with one word only.", "response": "\"A.\" One word only. Perhaps, A. is an interesting first name"}
+{"endpoint": "ref-08", "id": "9", "repeat": 5, "prompt": "Give one random first name. Answer with one word only.", "response": "\"Sam.\""}
+{"endpoint": "ref-09", "id": "9", "repeat": 5, "prompt": "Give one random first name. Answer with one word only.", "response": "Random first name: Ethan"}
+{"endpoint": "ref-01", "id": "10", "repeat": 5, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Spinach"}
+{"endpoint": "ref-02", "id": "10", "repeat": 5, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Spinach."}
+{"endpoint": "ref-03", "id": "10", "repeat": 5, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Leafy such as lettuce."}
+{"endpoint": "ref-04", "id": "10", "repeat": 5, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Carrot."}
+{"endpoint": "ref-05", "id": "10", "repeat": 5, "prompt": "Name one random vegetable. Answer with one word only.", "response": "\"spinach\""}
+{"endpoint": "ref-06", "id": "10", "repeat": 5, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Spinach"}
+{"endpoint": "ref-07", "id": "10", "repeat": 5, "prompt": "Name one random vegetable. Answer with one word only.", "response": "\"Root vegetable.\""}
+{"endpoint": "ref-08", "id": "10", "repeat": 5, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Cabbage"}
+{"endpoint": "ref-09", "id": "10", "repeat": 5, "prompt": "Name one random vegetable. Answer with one word only.", "response": "Spinach."}
+{"endpoint": "ref-01", "id": "11", "repeat": 5, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Music"}
+{"endpoint": "ref-02", "id": "11", "repeat": 5, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Guitar"}
+{"endpoint": "ref-03", "id": "11", "repeat": 5, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "One random musical instrument is the cello."}
+{"endpoint": "ref-04", "id": "11", "repeat": 5, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Stringed instrument."}
+{"endpoint": "ref-05", "id": "11", "repeat": 5, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Percussion"}
+{"endpoint": "ref-06", "id": "11", "repeat": 5, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Percussion"}
+{"endpoint": "ref-07", "id": "11", "repeat": 5, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Stringed Instrument."}
+{"endpoint": "ref-08", "id": "11", "repeat": 5, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Instrument: Gong"}
+{"endpoint": "ref-09", "id": "11", "repeat": 5, "prompt": "Name one random musical instrument. Answer with one word only.", "response": "Xylophone."}
+{"endpoint": "ref-01", "id": "12", "repeat": 5, "prompt": "Name one random sport. Answer with one word only.", "response": "Football"}
+{"endpoint": "ref-02", "id": "12", "repeat": 5, "prompt": "Name one random sport. Answer with one word only.", "response": "Golf"}
+{"endpoint": "ref-03", "id": "12", "repeat": 5, "prompt": "Name one random sport. Answer with one word only.", "response": "Soccer"}
+{"endpoint": "ref-04", "id": "12", "repeat": 5, "prompt": "Name one random sport. Answer with one word only.", "response": "Football."}
+{"endpoint": "ref-05", "id": "12", "repeat": 5, "prompt": "Name one random sport. Answer with one word only.", "response": "Football"}
+{"endpoint": "ref-06", "id": "12", "repeat": 5, "prompt": "Name one random sport. Answer with one word only.", "response": "Mixed martial arts"}
+{"endpoint": "ref-07", "id": "12", "repeat": 5, "prompt": "Name one random sport. Answer with one word only.", "response": "Sport. One word. One sport."}
+{"endpoint": "ref-08", "id": "12", "repeat": 5, "prompt": "Name one random sport. Answer with one word only.", "response": "Soccer"}
+{"endpoint": "ref-09", "id": "12", "repeat": 5, "prompt": "Name one random sport. Answer with one word only.", "response": "Football!"}
+{"endpoint": "ref-01", "id": "13", "repeat": 5, "prompt": "Name one random flower. Answer with one word only.", "response": "Asclepias"}
+{"endpoint": "ref-02", "id": "13", "repeat": 5, "prompt": "Name one random flower. Answer with one word only.", "response": "Scentless"}
+{"endpoint": "ref-03", "id": "13", "repeat": 5, "prompt": "Name one random flower. Answer with one word only.", "response": "Petunia"}
+{"endpoint": "ref-04", "id": "13", "repeat": 5, "prompt": "Name one random flower. Answer with one word only.", "response": "Moonflower."}
+{"endpoint": "ref-05", "id": "13", "repeat": 5, "prompt": "Name one random flower. Answer with one word only.", "response": "Rose"}
+{"endpoint": "ref-06", "id": "13", "repeat": 5, "prompt": "Name one random flower. Answer with one word only.", "response": "Arachnid"}
+{"endpoint": "ref-07", "id": "13", "repeat": 5, "prompt": "Name one random flower. Answer with one word only.", "response": "Rose. It's a popular flower, known for its vibrant colors and delicate petals"}
+{"endpoint": "ref-08", "id": "13", "repeat": 5, "prompt": "Name one random flower. Answer with one word only.", "response": "Petunia"}
+{"endpoint": "ref-09", "id": "13", "repeat": 5, "prompt": "Name one random flower. Answer with one word only.", "response": "Rose."}
+{"endpoint": "ref-01", "id": "14", "repeat": 5, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen"}
+{"endpoint": "ref-02", "id": "14", "repeat": 5, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Hydrogen"}
+{"endpoint": "ref-03", "id": "14", "repeat": 5, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Element name: Hydrogen"}
+{"endpoint": "ref-04", "id": "14", "repeat": 5, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Hydrogen."}
+{"endpoint": "ref-05", "id": "14", "repeat": 5, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Hydrogen"}
+{"endpoint": "ref-06", "id": "14", "repeat": 5, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen"}
+{"endpoint": "ref-07", "id": "14", "repeat": 5, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Oxygen. This is a chemical element that makes up about 80%"}
+{"endpoint": "ref-08", "id": "14", "repeat": 5, "prompt": "Name one random chemical element. Answer with one word only.", "response": " helium"}
+{"endpoint": "ref-09", "id": "14", "repeat": 5, "prompt": "Name one random chemical element. Answer with one word only.", "response": "Hydrogen"}
+{"endpoint": "ref-01", "id": "15", "repeat": 5, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Mon"}
+{"endpoint": "ref-02", "id": "15", "repeat": 5, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday"}
+{"endpoint": "ref-03", "id": "15", "repeat": 5, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday"}
+{"endpoint": "ref-04", "id": "15", "repeat": 5, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "The day is tomorrow."}
+{"endpoint": "ref-05", "id": "15", "repeat": 5, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Mon"}
+{"endpoint": "ref-06", "id": "15", "repeat": 5, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday"}
+{"endpoint": "ref-07", "id": "15", "repeat": 5, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday."}
+{"endpoint": "ref-08", "id": "15", "repeat": 5, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday"}
+{"endpoint": "ref-09", "id": "15", "repeat": 5, "prompt": "Pick a random day of the week. Answer with one word only.", "response": "Monday."}
+{"endpoint": "ref-01", "id": "16", "repeat": 5, "prompt": "Pick a random month. Answer with one word only.", "response": "January"}
+{"endpoint": "ref-02", "id": "16", "repeat": 5, "prompt": "Pick a random month. Answer with one word only.", "response": "January"}
+{"endpoint": "ref-03", "id": "16", "repeat": 5, "prompt": "Pick a random month. Answer with one word only.", "response": "January"}
+{"endpoint": "ref-04", "id": "16", "repeat": 5, "prompt": "Pick a random month. Answer with one word only.", "response": "March."}
+{"endpoint": "ref-05", "id": "16", "repeat": 5, "prompt": "Pick a random month. Answer with one word only.", "response": "January"}
+{"endpoint": "ref-06", "id": "16", "repeat": 5, "prompt": "Pick a random month. Answer with one word only.", "response": "January"}
+{"endpoint": "ref-07", "id": "16", "repeat": 5, "prompt": "Pick a random month. Answer with one word only.", "response": "Spring. Spring brings in new beginnings and fresh possibilities. Spring is the time for"}
+{"endpoint": "ref-08", "id": "16", "repeat": 5, "prompt": "Pick a random month. Answer with one word only.", "response": "Months that end in 'y' include February, March, April, May"}
+{"endpoint": "ref-09", "id": "16", "repeat": 5, "prompt": "Pick a random month. Answer with one word only.", "response": "January"}
+{"endpoint": "ref-01", "id": "17", "repeat": 5, "prompt": "Name one random emotion. Answer with one word only.", "response": "Emotion"}
+{"endpoint": "ref-02", "id": "17", "repeat": 5, "prompt": "Name one random emotion. Answer with one word only.", "response": "Fear"}
+{"endpoint": "ref-03", "id": "17", "repeat": 5, "prompt": "Name one random emotion. Answer with one word only.", "response": "Fear"}
+{"endpoint": "ref-04", "id": "17", "repeat": 5, "prompt": "Name one random emotion. Answer with one word only.", "response": "Fear."}
+{"endpoint": "ref-05", "id": "17", "repeat": 5, "prompt": "Name one random emotion. Answer with one word only.", "response": "Anger"}
+{"endpoint": "ref-06", "id": "17", "repeat": 5, "prompt": "Name one random emotion. Answer with one word only.", "response": "Fear"}
+{"endpoint": "ref-07", "id": "17", "repeat": 5, "prompt": "Name one random emotion. Answer with one word only.", "response": "Grateful. The emotion of gratitude towards nature. This is one of the"}
+{"endpoint": "ref-08", "id": "17", "repeat": 5, "prompt": "Name one random emotion. Answer with one word only.", "response": "Anger"}
+{"endpoint": "ref-09", "id": "17", "repeat": 5, "prompt": "Name one random emotion. Answer with one word only.", "response": "Fear"}
+{"endpoint": "ref-01", "id": "18", "repeat": 5, "prompt": "Name one random profession. Answer with one word only.", "response": "\"Ward\""}
+{"endpoint": "ref-02", "id": "18", "repeat": 5, "prompt": "Name one random profession. Answer with one word only.", "response": "Artist"}
+{"endpoint": "ref-03", "id": "18", "repeat": 5, "prompt": "Name one random profession. Answer with one word only.", "response": "Software Engineer"}
+{"endpoint": "ref-04", "id": "18", "repeat": 5, "prompt": "Name one random profession. Answer with one word only.", "response": "Artist."}
+{"endpoint": "ref-05", "id": "18", "repeat": 5, "prompt": "Name one random profession. Answer with one word only.", "response": "\"engineer\""}
+{"endpoint": "ref-06", "id": "18", "repeat": 5, "prompt": "Name one random profession. Answer with one word only.", "response": "Artwork"}
+{"endpoint": "ref-07", "id": "18", "repeat": 5, "prompt": "Name one random profession. Answer with one word only.", "response": "Doctor. 1.) Name one random profession. Answer with one word only."}
+{"endpoint": "ref-08", "id": "18", "repeat": 5, "prompt": "Name one random profession. Answer with one word only.", "response": "Interdisciplinary Analyst"}
+{"endpoint": "ref-09", "id": "18", "repeat": 5, "prompt": "Name one random profession. Answer with one word only.", "response": "Software Engineer"}
+{"endpoint": "ref-01", "id": "19", "repeat": 5, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Terrine"}
+{"endpoint": "ref-02", "id": "19", "repeat": 5, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Window"}
+{"endpoint": "ref-03", "id": "19", "repeat": 5, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "One random object found in a kitchen might be a coffee machine."}
+{"endpoint": "ref-04", "id": "19", "repeat": 5, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Stove."}
+{"endpoint": "ref-05", "id": "19", "repeat": 5, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Coffee."}
+{"endpoint": "ref-06", "id": "19", "repeat": 5, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Cookies"}
+{"endpoint": "ref-07", "id": "19", "repeat": 5, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Coffee maker."}
+{"endpoint": "ref-08", "id": "19", "repeat": 5, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Table."}
+{"endpoint": "ref-09", "id": "19", "repeat": 5, "prompt": "Name one random object you might find in a kitchen. Answer with one word only.", "response": "Cookies."}
+{"endpoint": "ref-01", "id": "0", "repeat": 6, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "100"}
+{"endpoint": "ref-02", "id": "0", "repeat": 6, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "0"}
+{"endpoint": "ref-03", "id": "0", "repeat": 6, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "7."}
+{"endpoint": "ref-04", "id": "0", "repeat": 6, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "100."}
+{"endpoint": "ref-05", "id": "0", "repeat": 6, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "52."}
+{"endpoint": "ref-06", "id": "0", "repeat": 6, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1234567890101112"}
+{"endpoint": "ref-07", "id": "0", "repeat": 6, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "The number is 105."}
+{"endpoint": "ref-08", "id": "0", "repeat": 6, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "2. I am wonderful yet awesome in everything. I love flowers and I also"}
+{"endpoint": "ref-09", "id": "0", "repeat": 6, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1234567890123456"}
+{"endpoint": "ref-01", "id": "1", "repeat": 6, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1000"}
+{"endpoint": "ref-02", "id": "1", "repeat": 6, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "888"}
+{"endpoint": "ref-03", "id": "1", "repeat": 6, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1000"}
+{"endpoint": "ref-04", "id": "1", "repeat": 6, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1000"}
+{"endpoint": "ref-05", "id": "1", "repeat": 6, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-06", "id": "1", "repeat": 6, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-07", "id": "1", "repeat": 6, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "The answer is 1000. I hope this meets your requirement of"}
+{"endpoint": "ref-08", "id": "1", "repeat": 6, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "1000"}
+{"endpoint": "ref-09", "id": "1", "repeat": 6, "prompt": "Pick a random number between 1 and 1000. Answer with only the number.", "response": "2345678900111234"}
+{"endpoint": "ref-01", "id": "2", "repeat": 6, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "3"}
+{"endpoint": "ref-02", "id": "2", "repeat": 6, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-03", "id": "2", "repeat": 6, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-04", "id": "2", "repeat": 6, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1.  The answer is 1."}
+{"endpoint": "ref-05", "id": "2", "repeat": 6, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "2."}
+{"endpoint": "ref-06", "id": "2", "repeat": 6, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-07", "id": "2", "repeat": 6, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "50. This is the answer! 50 is the highest number in"}
+{"endpoint": "ref-08", "id": "2", "repeat": 6, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "1234567890"}
+{"endpoint": "ref-09", "id": "2", "repeat": 6, "prompt": "Pick a random number between 1 and 50. Answer with only the number.", "response": "50."}
+{"endpoint": "ref-01", "id": "3", "repeat": 6, "prompt": "Name one random animal. Answer with one word only.", "response": "Animal."}
+{"endpoint": "ref-02", "id": "3", "repeat": 6, "prompt": "Name one random animal. Answer with one word only.", "response": "Duck"}
+{"endpoint": "ref-03", "id": "3", "repeat": 6, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-04", "id": "3", "repeat": 6, "prompt": "Name one random animal. Answer with one word only.", "response": "Animal."}
+{"endpoint": "ref-05", "id": "3", "repeat": 6, "prompt": "Name one random animal. Answer with one word only.", "response": "Bear"}
+{"endpoint": "ref-06", "id": "3", "repeat": 6, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-07", "id": "3", "repeat": 6, "prompt": "Name one random animal. Answer with one word only.", "response": "Animal. Animal. Animal. Animal. Animal. Animal. Animal. Animal."}
+{"endpoint": "ref-08", "id": "3", "repeat": 6, "prompt": "Name one random animal. Answer with one word only.", "response": "Singapore Cementa Park"}

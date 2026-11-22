@@ -1,0 +1,343 @@
+{"endpoint": "ref-01", "id": "0", "repeat": 0, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-02", "id": "0", "repeat": 0, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "I'm not familiar with the concept of random numbers."}
+{"endpoint": "ref-03", "id": "0", "repeat": 0, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-04", "id": "0", "repeat": 0, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-05", "id": "0", "repeat": 0, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-06", "id": "0", "repeat": 0, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-07", "id": "0", "repeat": 0, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "100. The answer is 100. No other number can"}
+{"endpoint": "ref-08", "id": "0", "repeat": 0, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "Shh, don't show me numbers like 123. I have"}
+{"endpoint": "ref-09", "id": "0", "repeat": 0, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "100."}
+{"endpoint": "ref-01", "id": "1", "repeat": 0, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-02", "id": "1", "repeat": 0, "prompt": "Name one random animal. Answer with one word only.", "response": "One random animal is a bird."}
+{"endpoint": "ref-03", "id": "1", "repeat": 0, "prompt": "Name one random animal. Answer with one word only.", "response": "A. Unicorn"}
+{"endpoint": "ref-04", "id": "1", "repeat": 0, "prompt": "Name one random animal. Answer with one word only.", "response": "Animal."}
+{"endpoint": "ref-05", "id": "1", "repeat": 0, "prompt": "Name one random animal. Answer with one word only.", "response": "Bear"}
+{"endpoint": "ref-06", "id": "1", "repeat": 0, "prompt": "Name one random animal. Answer with one word only.", "response": "Hippopotamus"}
+{"endpoint": "ref-07", "id": "1", "repeat": 0, "prompt": "Name one random animal. Answer with one word only.", "response": "Animal. One word only. Animal. One word only. Animal. Animal."}
+{"endpoint": "ref-08", "id": "1", "repeat": 0, "prompt": "Name one random animal. Answer with one word only.", "response": "Wombat"}
+{"endpoint": "ref-09", "id": "1", "repeat": 0, "prompt": "Name one random animal. Answer with one word only.", "response": "Animal: Bird."}
+{"endpoint": "ref-01", "id": "2", "repeat": 0, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-02", "id": "2", "repeat": 0, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "10"}
+{"endpoint": "ref-03", "id": "2", "repeat": 0, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "The number is 7."}
+{"endpoint": "ref-04", "id": "2", "repeat": 0, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "10."}
+{"endpoint": "ref-05", "id": "2", "repeat": 0, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-06", "id": "2", "repeat": 0, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-07", "id": "2", "repeat": 0, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "I randomly picked 10. I do not know why. Maybe you should"}
+{"endpoint": "ref-08", "id": "2", "repeat": 0, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "7."}
+{"endpoint": "ref-09", "id": "2", "repeat": 0, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "10."}
+{"endpoint": "ref-01", "id": "3", "repeat": 0, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "S"}
+{"endpoint": "ref-02", "id": "3", "repeat": 0, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "Q"}
+{"endpoint": "ref-03", "id": "3", "repeat": 0, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-04", "id": "3", "repeat": 0, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A. The letter is A."}
+{"endpoint": "ref-05", "id": "3", "repeat": 0, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-06", "id": "3", "repeat": 0, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A."}
+{"endpoint": "ref-07", "id": "3", "repeat": 0, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A. The letter A is chosen. It is a letter of the alphabet used"}
+{"endpoint": "ref-08", "id": "3", "repeat": 0, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-09", "id": "3", "repeat": 0, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "The letter 'A'"}
+{"endpoint": "ref-01", "id": "4", "repeat": 0, "prompt": "Name one random color. Answer with one word only.", "response": "Blue"}
+{"endpoint": "ref-02", "id": "4", "repeat": 0, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-03", "id": "4", "repeat": 0, "prompt": "Name one random color. Answer with one word only.", "response": "Blue"}
+{"endpoint": "ref-04", "id": "4", "repeat": 0, "prompt": "Name one random color. Answer with one word only.", "response": "Red."}
+{"endpoint": "ref-05", "id": "4", "repeat": 0, "prompt": "Name one random color. Answer with one word only.", "response": "\"Purple\""}
+{"endpoint": "ref-06", "id": "4", "repeat": 0, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-07", "id": "4", "repeat": 0, "prompt": "Name one random color. Answer with one word only.", "response": "Red. Read on to see more sources of creativity."}
+{"endpoint": "ref-08", "id": "4", "repeat": 0, "prompt": "Name one random color. Answer with one word only.", "response": "NULL"}
+{"endpoint": "ref-09", "id": "4", "repeat": 0, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-01", "id": "5", "repeat": 0, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "1. Don't worry about the random number.\n2. The number can"}
+{"endpoint": "ref-02", "id": "5", "repeat": 0, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "I'm sorry but as an AI, I'm not capable of performing random number"}
+{"endpoint": "ref-03", "id": "5", "repeat": 0, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "Sure, I'd be happy to help you with that. Here is a random"}
+{"endpoint": "ref-04", "id": "5", "repeat": 0, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "I'm sorry, but I don't have any knowledge about random selection of numbers"}
+{"endpoint": "ref-05", "id": "5", "repeat": 0, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "I'd be happy to choose a random number between 1 and 10"}
+{"endpoint": "ref-06", "id": "5", "repeat": 0, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "这个问题呢？那么"}
+{"endpoint": "ref-07", "id": "5", "repeat": 0, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "I am unable to make an actual random selection because the system is currently running the"}
+{"endpoint": "ref-08", "id": "5", "repeat": 0, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "1 does not get selected randomly."}
+{"endpoint": "ref-09", "id": "5", "repeat": 0, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "1. 1\n2. 2\n3. 3\n4"}
+{"endpoint": "ref-01", "id": "0", "repeat": 1, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1234567890123456"}
+{"endpoint": "ref-02", "id": "0", "repeat": 1, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "100"}
+{"endpoint": "ref-03", "id": "0", "repeat": 1, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1234567890"}
+{"endpoint": "ref-04", "id": "0", "repeat": 1, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "5."}
+{"endpoint": "ref-05", "id": "0", "repeat": 1, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "The answer is 100."}
+{"endpoint": "ref-06", "id": "0", "repeat": 1, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1234567890101112"}
+{"endpoint": "ref-07", "id": "0", "repeat": 1, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1. 1. 2. 3. 4. 5"}
+{"endpoint": "ref-08", "id": "0", "repeat": 1, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-09", "id": "0", "repeat": 1, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1234567890"}
+{"endpoint": "ref-01", "id": "1", "repeat": 1, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-02", "id": "1", "repeat": 1, "prompt": "Name one random animal. Answer with one word only.", "response": "Dog."}
+{"endpoint": "ref-03", "id": "1", "repeat": 1, "prompt": "Name one random animal. Answer with one word only.", "response": "Panda"}
+{"endpoint": "ref-04", "id": "1", "repeat": 1, "prompt": "Name one random animal. Answer with one word only.", "response": "Animal."}
+{"endpoint": "ref-05", "id": "1", "repeat": 1, "prompt": "Name one random animal. Answer with one word only.", "response": "Cat."}
+{"endpoint": "ref-06", "id": "1", "repeat": 1, "prompt": "Name one random animal. Answer with one word only.", "response": "Beetle."}
+{"endpoint": "ref-07", "id": "1", "repeat": 1, "prompt": "Name one random animal. Answer with one word only.", "response": "Swift. \n\n1. Random animals are those that are found or encountered randomly"}
+{"endpoint": "ref-08", "id": "1", "repeat": 1, "prompt": "Name one random animal. Answer with one word only.", "response": "Random animal? - The answer is tiger."}
+{"endpoint": "ref-09", "id": "1", "repeat": 1, "prompt": "Name one random animal. Answer with one word only.", "response": "Bear."}
+{"endpoint": "ref-01", "id": "2", "repeat": 1, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "4"}
+{"endpoint": "ref-02", "id": "2", "repeat": 1, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-03", "id": "2", "repeat": 1, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-04", "id": "2", "repeat": 1, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-05", "id": "2", "repeat": 1, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-06", "id": "2", "repeat": 1, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-07", "id": "2", "repeat": 1, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1. The random number between 1 and 10 is 7."}
+{"endpoint": "ref-08", "id": "2", "repeat": 1, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-09", "id": "2", "repeat": 1, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-01", "id": "3", "repeat": 1, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-02", "id": "3", "repeat": 1, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-03", "id": "3", "repeat": 1, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-04", "id": "3", "repeat": 1, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A."}
+{"endpoint": "ref-05", "id": "3", "repeat": 1, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-06", "id": "3", "repeat": 1, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-07", "id": "3", "repeat": 1, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A. This is my answer to the question of finding a random letter from A"}
+{"endpoint": "ref-08", "id": "3", "repeat": 1, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A."}
+{"endpoint": "ref-09", "id": "3", "repeat": 1, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A."}
+{"endpoint": "ref-01", "id": "4", "repeat": 1, "prompt": "Name one random color. Answer with one word only.", "response": "Black"}
+{"endpoint": "ref-02", "id": "4", "repeat": 1, "prompt": "Name one random color. Answer with one word only.", "response": "Orange"}
+{"endpoint": "ref-03", "id": "4", "repeat": 1, "prompt": "Name one random color. Answer with one word only.", "response": "Grey"}
+{"endpoint": "ref-04", "id": "4", "repeat": 1, "prompt": "Name one random color. Answer with one word only.", "response": "Red."}
+{"endpoint": "ref-05", "id": "4", "repeat": 1, "prompt": "Name one random color. Answer with one word only.", "response": "Grey"}
+{"endpoint": "ref-06", "id": "4", "repeat": 1, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-07", "id": "4", "repeat": 1, "prompt": "Name one random color. Answer with one word only.", "response": "Red."}
+{"endpoint": "ref-08", "id": "4", "repeat": 1, "prompt": "Name one random color. Answer with one word only.", "response": "Star"}
+{"endpoint": "ref-09", "id": "4", "repeat": 1, "prompt": "Name one random color. Answer with one word only.", "response": "Red."}
+{"endpoint": "ref-01", "id": "5", "repeat": 1, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "1234567890123456"}
+{"endpoint": "ref-02", "id": "5", "repeat": 1, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "0."}
+{"endpoint": "ref-03", "id": "5", "repeat": 1, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "Do you have a preference for even or odd numbers?"}
+{"endpoint": "ref-04", "id": "5", "repeat": 1, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "0"}
+{"endpoint": "ref-05", "id": "5", "repeat": 1, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "是的，这是一个清晰的回答"}
+{"endpoint": "ref-06", "id": "5", "repeat": 1, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "[1]\n\nI'll select a random number between 1 and "}
+{"endpoint": "ref-07", "id": "5", "repeat": 1, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "I am unable to randomly select any number between 1 and 100"}
+{"endpoint": "ref-08", "id": "5", "repeat": 1, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "请以下推�ugur絕许回"}
+{"endpoint": "ref-09", "id": "5", "repeat": 1, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "Sure, I can randomly choose a number from 1 to 100"}
+{"endpoint": "ref-01", "id": "0", "repeat": 2, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1234567890123456"}
+{"endpoint": "ref-02", "id": "0", "repeat": 2, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "2."}
+{"endpoint": "ref-03", "id": "0", "repeat": 2, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-04", "id": "0", "repeat": 2, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "100."}
+{"endpoint": "ref-05", "id": "0", "repeat": 2, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "11"}
+{"endpoint": "ref-06", "id": "0", "repeat": 2, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "2."}
+{"endpoint": "ref-07", "id": "0", "repeat": 2, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1. I don't see any number between 1 and 100"}
+{"endpoint": "ref-08", "id": "0", "repeat": 2, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-09", "id": "0", "repeat": 2, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "50"}
+{"endpoint": "ref-01", "id": "1", "repeat": 2, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-02", "id": "1", "repeat": 2, "prompt": "Name one random animal. Answer with one word only.", "response": "Giraffe"}
+{"endpoint": "ref-03", "id": "1", "repeat": 2, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-04", "id": "1", "repeat": 2, "prompt": "Name one random animal. Answer with one word only.", "response": "Dog."}
+{"endpoint": "ref-05", "id": "1", "repeat": 2, "prompt": "Name one random animal. Answer with one word only.", "response": "Dragon"}
+{"endpoint": "ref-06", "id": "1", "repeat": 2, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-07", "id": "1", "repeat": 2, "prompt": "Name one random animal. Answer with one word only.", "response": "Animal. One word only. Animal is the correct answer to the question. The"}
+{"endpoint": "ref-08", "id": "1", "repeat": 2, "prompt": "Name one random animal. Answer with one word only.", "response": "One: cat."}
+{"endpoint": "ref-09", "id": "1", "repeat": 2, "prompt": "Name one random animal. Answer with one word only.", "response": "Giraffe."}
+{"endpoint": "ref-01", "id": "2", "repeat": 2, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "2."}
+{"endpoint": "ref-02", "id": "2", "repeat": 2, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-03", "id": "2", "repeat": 2, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-04", "id": "2", "repeat": 2, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1. I was born in 2020.\n2. I"}
+{"endpoint": "ref-05", "id": "2", "repeat": 2, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-06", "id": "2", "repeat": 2, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-07", "id": "2", "repeat": 2, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "The number is 5."}
+{"endpoint": "ref-08", "id": "2", "repeat": 2, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "7"}
+{"endpoint": "ref-09", "id": "2", "repeat": 2, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "Random number 7."}
+{"endpoint": "ref-01", "id": "3", "repeat": 2, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-02", "id": "3", "repeat": 2, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A."}
+{"endpoint": "ref-03", "id": "3", "repeat": 2, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "B"}
+{"endpoint": "ref-04", "id": "3", "repeat": 2, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A."}
+{"endpoint": "ref-05", "id": "3", "repeat": 2, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "B"}
+{"endpoint": "ref-06", "id": "3", "repeat": 2, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-07", "id": "3", "repeat": 2, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A. A. A is the first letter of the alphabet. This is the"}
+{"endpoint": "ref-08", "id": "3", "repeat": 2, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-09", "id": "3", "repeat": 2, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A."}
+{"endpoint": "ref-01", "id": "4", "repeat": 2, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-02", "id": "4", "repeat": 2, "prompt": "Name one random color. Answer with one word only.", "response": "Blue"}
+{"endpoint": "ref-03", "id": "4", "repeat": 2, "prompt": "Name one random color. Answer with one word only.", "response": "Blue"}
+{"endpoint": "ref-04", "id": "4", "repeat": 2, "prompt": "Name one random color. Answer with one word only.", "response": "Red."}
+{"endpoint": "ref-05", "id": "4", "repeat": 2, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-06", "id": "4", "repeat": 2, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-07", "id": "4", "repeat": 2, "prompt": "Name one random color. Answer with one word only.", "response": "Colors. One word. Color."}
+{"endpoint": "ref-08", "id": "4", "repeat": 2, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-09", "id": "4", "repeat": 2, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-01", "id": "5", "repeat": 2, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "I'm glad you asked this. I can select a random integer between 1"}
+{"endpoint": "ref-02", "id": "5", "repeat": 2, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "What a delightful prompt. Let me see if I can provide a random selection of"}
+{"endpoint": "ref-03", "id": "5", "repeat": 2, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "你可以等候任意一"}
+{"endpoint": "ref-04", "id": "5", "repeat": 2, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "1. What is the number?\n2. What is the number of your"}
+{"endpoint": "ref-05", "id": "5", "repeat": 2, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "Any number between 1 and 100."}
+{"endpoint": "ref-06", "id": "5", "repeat": 2, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "1、2、3、4、5、6、7、8、"}
+{"endpoint": "ref-07", "id": "5", "repeat": 2, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "I don't know how to randomly select numbers between 1 to 10"}
+{"endpoint": "ref-08", "id": "5", "repeat": 2, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "59"}
+{"endpoint": "ref-09", "id": "5", "repeat": 2, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "Sure, here are the number selected by the AI: 23."}
+{"endpoint": "ref-01", "id": "0", "repeat": 3, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1234567890"}
+{"endpoint": "ref-02", "id": "0", "repeat": 3, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-03", "id": "0", "repeat": 3, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "What is the number from 1 to 100?"}
+{"endpoint": "ref-04", "id": "0", "repeat": 3, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "100."}
+{"endpoint": "ref-05", "id": "0", "repeat": 3, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-06", "id": "0", "repeat": 3, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "32"}
+{"endpoint": "ref-07", "id": "0", "repeat": 3, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "20. I am on the second page of the first chapter of this book"}
+{"endpoint": "ref-08", "id": "0", "repeat": 3, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-09", "id": "0", "repeat": 3, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "100."}
+{"endpoint": "ref-01", "id": "1", "repeat": 3, "prompt": "Name one random animal. Answer with one word only.", "response": "Wolf."}
+{"endpoint": "ref-02", "id": "1", "repeat": 3, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-03", "id": "1", "repeat": 3, "prompt": "Name one random animal. Answer with one word only.", "response": "Bear."}
+{"endpoint": "ref-04", "id": "1", "repeat": 3, "prompt": "Name one random animal. Answer with one word only.", "response": "Animal."}
+{"endpoint": "ref-05", "id": "1", "repeat": 3, "prompt": "Name one random animal. Answer with one word only.", "response": "*Giraffe*"}
+{"endpoint": "ref-06", "id": "1", "repeat": 3, "prompt": "Name one random animal. Answer with one word only.", "response": "Bear"}
+{"endpoint": "ref-07", "id": "1", "repeat": 3, "prompt": "Name one random animal. Answer with one word only.", "response": "Mammal. For example cat, dog, elephant, chirping bird."}
+{"endpoint": "ref-08", "id": "1", "repeat": 3, "prompt": "Name one random animal. Answer with one word only.", "response": "uce."}
+{"endpoint": "ref-09", "id": "1", "repeat": 3, "prompt": "Name one random animal. Answer with one word only.", "response": "Unicorn."}
+{"endpoint": "ref-01", "id": "2", "repeat": 3, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-02", "id": "2", "repeat": 3, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "17"}
+{"endpoint": "ref-03", "id": "2", "repeat": 3, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-04", "id": "2", "repeat": 3, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "5."}
+{"endpoint": "ref-05", "id": "2", "repeat": 3, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "I'll pick a random number between 1 and 10.\n\n"}
+{"endpoint": "ref-06", "id": "2", "repeat": 3, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-07", "id": "2", "repeat": 3, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "There's no random number between 1 and 10. Number 1"}
+{"endpoint": "ref-08", "id": "2", "repeat": 3, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-09", "id": "2", "repeat": 3, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1. This is because there is only one random number between 1 and "}
+{"endpoint": "ref-01", "id": "3", "repeat": 3, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-02", "id": "3", "repeat": 3, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "C"}
+{"endpoint": "ref-03", "id": "3", "repeat": 3, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-04", "id": "3", "repeat": 3, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A."}
+{"endpoint": "ref-05", "id": "3", "repeat": 3, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-06", "id": "3", "repeat": 3, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-07", "id": "3", "repeat": 3, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A. Start with the letter A. There is no letter B. There is"}
+{"endpoint": "ref-08", "id": "3", "repeat": 3, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-09", "id": "3", "repeat": 3, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A."}
+{"endpoint": "ref-01", "id": "4", "repeat": 3, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-02", "id": "4", "repeat": 3, "prompt": "Name one random color. Answer with one word only.", "response": "Red."}
+{"endpoint": "ref-03", "id": "4", "repeat": 3, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-04", "id": "4", "repeat": 3, "prompt": "Name one random color. Answer with one word only.", "response": "Red."}
+{"endpoint": "ref-05", "id": "4", "repeat": 3, "prompt": "Name one random color. Answer with one word only.", "response": "Blue"}
+{"endpoint": "ref-06", "id": "4", "repeat": 3, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-07", "id": "4", "repeat": 3, "prompt": "Name one random color. Answer with one word only.", "response": "Red."}
+{"endpoint": "ref-08", "id": "4", "repeat": 3, "prompt": "Name one random color. Answer with one word only.", "response": "One: Blue"}
+{"endpoint": "ref-09", "id": "4", "repeat": 3, "prompt": "Name one random color. Answer with one word only.", "response": "Blue."}
+{"endpoint": "ref-01", "id": "5", "repeat": 3, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "1. 5. 2. 8. 4. 1"}
+{"endpoint": "ref-02", "id": "5", "repeat": 3, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "I'll select a random number between 1 and 100."}
+{"endpoint": "ref-03", "id": "5", "repeat": 3, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "Sure, I can help you with that. Here's a random number generator:"}
+{"endpoint": "ref-04", "id": "5", "repeat": 3, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "让我答至少一个数字的一"}
+{"endpoint": "ref-05", "id": "5", "repeat": 3, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "1. **Do not make assumptions**: Do not assume that the user will have"}
+{"endpoint": "ref-06", "id": "5", "repeat": 3, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "[1]\n\nI'll select a random number between 1 and "}
+{"endpoint": "ref-07", "id": "5", "repeat": 3, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "I will randomly select an integer between 0 and 100. \n"}
+{"endpoint": "ref-08", "id": "5", "repeat": 3, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "我确保至少一天及"}
+{"endpoint": "ref-09", "id": "5", "repeat": 3, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "Yes, I'll always provide responses as whole numbers."}
+{"endpoint": "ref-01", "id": "0", "repeat": 4, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-02", "id": "0", "repeat": 4, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "100"}
+{"endpoint": "ref-03", "id": "0", "repeat": 4, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1. How many sides does a standard 20-sided die have?"}
+{"endpoint": "ref-04", "id": "0", "repeat": 4, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "100."}
+{"endpoint": "ref-05", "id": "0", "repeat": 4, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "6."}
+{"endpoint": "ref-06", "id": "0", "repeat": 4, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1234567890101112"}
+{"endpoint": "ref-07", "id": "0", "repeat": 4, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "The number that I would randomly pick would be 99. This is because"}
+{"endpoint": "ref-08", "id": "0", "repeat": 4, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-09", "id": "0", "repeat": 4, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1234567890123456"}
+{"endpoint": "ref-01", "id": "1", "repeat": 4, "prompt": "Name one random animal. Answer with one word only.", "response": "Bear"}
+{"endpoint": "ref-02", "id": "1", "repeat": 4, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant."}
+{"endpoint": "ref-03", "id": "1", "repeat": 4, "prompt": "Name one random animal. Answer with one word only.", "response": "Eagle"}
+{"endpoint": "ref-04", "id": "1", "repeat": 4, "prompt": "Name one random animal. Answer with one word only.", "response": "Bear."}
+{"endpoint": "ref-05", "id": "1", "repeat": 4, "prompt": "Name one random animal. Answer with one word only.", "response": "Lion"}
+{"endpoint": "ref-06", "id": "1", "repeat": 4, "prompt": "Name one random animal. Answer with one word only.", "response": "Orange."}
+{"endpoint": "ref-07", "id": "1", "repeat": 4, "prompt": "Name one random animal. Answer with one word only.", "response": "Animal. 🐾✨🐾🦇🐒"}
+{"endpoint": "ref-09", "id": "1", "repeat": 4, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-01", "id": "2", "repeat": 4, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "123456789"}
+{"endpoint": "ref-02", "id": "2", "repeat": 4, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "Random number: 3"}
+{"endpoint": "ref-08", "id": "1", "repeat": 4, "prompt": "Name one random animal. Answer with one word only.", "response": "Ocean."}
+{"endpoint": "ref-03", "id": "2", "repeat": 4, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-04", "id": "2", "repeat": 4, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "10."}
+{"endpoint": "ref-05", "id": "2", "repeat": 4, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "22"}
+{"endpoint": "ref-06", "id": "2", "repeat": 4, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-07", "id": "2", "repeat": 4, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "10. 10.  10. 10. "}
+{"endpoint": "ref-08", "id": "2", "repeat": 4, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-09", "id": "2", "repeat": 4, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "120."}
+{"endpoint": "ref-01", "id": "3", "repeat": 4, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-02", "id": "3", "repeat": 4, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-03", "id": "3", "repeat": 4, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-04", "id": "3", "repeat": 4, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A."}
+{"endpoint": "ref-05", "id": "3", "repeat": 4, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-06", "id": "3", "repeat": 4, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-07", "id": "3", "repeat": 4, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "The letter of the alphabet is A. Please choose another letter to verify that the"}
+{"endpoint": "ref-08", "id": "3", "repeat": 4, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-09", "id": "3", "repeat": 4, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-01", "id": "4", "repeat": 4, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-02", "id": "4", "repeat": 4, "prompt": "Name one random color. Answer with one word only.", "response": "Blue"}
+{"endpoint": "ref-03", "id": "4", "repeat": 4, "prompt": "Name one random color. Answer with one word only.", "response": "One random color is purple."}
+{"endpoint": "ref-04", "id": "4", "repeat": 4, "prompt": "Name one random color. Answer with one word only.", "response": "Red."}
+{"endpoint": "ref-05", "id": "4", "repeat": 4, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-06", "id": "4", "repeat": 4, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-07", "id": "4", "repeat": 4, "prompt": "Name one random color. Answer with one word only.", "response": "Red."}
+{"endpoint": "ref-08", "id": "4", "repeat": 4, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-09", "id": "4", "repeat": 4, "prompt": "Name one random color. Answer with one word only.", "response": "Blue."}
+{"endpoint": "ref-01", "id": "5", "repeat": 4, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "你好！，我是一个公平的"}
+{"endpoint": "ref-02", "id": "5", "repeat": 4, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "As Hugging Face: \n\n1. Pick a random number between 1 and"}
+{"endpoint": "ref-03", "id": "5", "repeat": 4, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "1\n\n2\n\n3\n\n4\n\n5\n\n6\n\n7\n\n8\n\n"}
+{"endpoint": "ref-04", "id": "5", "repeat": 4, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "1. 随机选择一个1到10"}
+{"endpoint": "ref-05", "id": "5", "repeat": 4, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "您需要一次性回答"}
+{"endpoint": "ref-06", "id": "5", "repeat": 4, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "[1]\n\nI'll select a random number between 1 and "}
+{"endpoint": "ref-07", "id": "5", "repeat": 4, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "I'm sorry, I'm an AI language model and I don't have the"}
+{"endpoint": "ref-08", "id": "5", "repeat": 4, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "Sure, here's one way to do it:\n\n```python\nimport"}
+{"endpoint": "ref-09", "id": "5", "repeat": 4, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "随机选择一个1到100"}
+{"endpoint": "ref-01", "id": "0", "repeat": 5, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "0"}
+{"endpoint": "ref-02", "id": "0", "repeat": 5, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "11"}
+{"endpoint": "ref-03", "id": "0", "repeat": 5, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-04", "id": "0", "repeat": 5, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "100."}
+{"endpoint": "ref-05", "id": "0", "repeat": 5, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-06", "id": "0", "repeat": 5, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-07", "id": "0", "repeat": 5, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "The number is 99. \n\nPick a random number between 1"}
+{"endpoint": "ref-09", "id": "0", "repeat": 5, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "24"}
+{"endpoint": "ref-01", "id": "1", "repeat": 5, "prompt": "Name one random animal. Answer with one word only.", "response": "Tiger."}
+{"endpoint": "ref-02", "id": "1", "repeat": 5, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-03", "id": "1", "repeat": 5, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-04", "id": "1", "repeat": 5, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant."}
+{"endpoint": "ref-05", "id": "1", "repeat": 5, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant."}
+{"endpoint": "ref-06", "id": "1", "repeat": 5, "prompt": "Name one random animal. Answer with one word only.", "response": "Zebra."}
+{"endpoint": "ref-07", "id": "1", "repeat": 5, "prompt": "Name one random animal. Answer with one word only.", "response": "The animal is a fox. It is a furry, carnivorous mammal. It is"}
+{"endpoint": "ref-08", "id": "1", "repeat": 5, "prompt": "Name one random animal. Answer with one word only.", "response": "Dog."}
+{"endpoint": "ref-09", "id": "1", "repeat": 5, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant."}
+{"endpoint": "ref-08", "id": "0", "repeat": 5, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-02", "id": "2", "repeat": 5, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-03", "id": "2", "repeat": 5, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "The number is 9."}
+{"endpoint": "ref-04", "id": "2", "repeat": 5, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-05", "id": "2", "repeat": 5, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-06", "id": "2", "repeat": 5, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-07", "id": "2", "repeat": 5, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "10. Number 10.\n\nThe number 10 is"}
+{"endpoint": "ref-08", "id": "2", "repeat": 5, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-09", "id": "2", "repeat": 5, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "2."}
+{"endpoint": "ref-01", "id": "3", "repeat": 5, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-01", "id": "2", "repeat": 5, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "Random number: 9"}
+{"endpoint": "ref-02", "id": "3", "repeat": 5, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A."}
+{"endpoint": "ref-03", "id": "3", "repeat": 5, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "The letter is A."}
+{"endpoint": "ref-04", "id": "3", "repeat": 5, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A."}
+{"endpoint": "ref-06", "id": "3", "repeat": 5, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-07", "id": "3", "repeat": 5, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A. The letter chosen was A. It was as if it was chosen randomly"}
+{"endpoint": "ref-08", "id": "3", "repeat": 5, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A"}
+{"endpoint": "ref-09", "id": "3", "repeat": 5, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "A."}
+{"endpoint": "ref-01", "id": "4", "repeat": 5, "prompt": "Name one random color. Answer with one word only.", "response": "Orange"}
+{"endpoint": "ref-02", "id": "4", "repeat": 5, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-03", "id": "4", "repeat": 5, "prompt": "Name one random color. Answer with one word only.", "response": "Eagle's Wings"}
+{"endpoint": "ref-04", "id": "4", "repeat": 5, "prompt": "Name one random color. Answer with one word only.", "response": "Red."}
+{"endpoint": "ref-05", "id": "4", "repeat": 5, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-06", "id": "4", "repeat": 5, "prompt": "Name one random color. Answer with one word only.", "response": "Auburn"}
+{"endpoint": "ref-07", "id": "4", "repeat": 5, "prompt": "Name one random color. Answer with one word only.", "response": "Red. This color represents passion and energy, warmth and vitality. It's also"}
+{"endpoint": "ref-09", "id": "4", "repeat": 5, "prompt": "Name one random color. Answer with one word only.", "response": "Red"}
+{"endpoint": "ref-05", "id": "3", "repeat": 5, "prompt": "Pick a random letter from A to Z. Answer with only the letter.", "response": "T"}
+{"endpoint": "ref-01", "id": "5", "repeat": 5, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "你好，如果需要，我可"}
+{"endpoint": "ref-02", "id": "5", "repeat": 5, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "I'll keep that in mind, so I won't provide any non-num"}
+{"endpoint": "ref-03", "id": "5", "repeat": 5, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "这是一个给定一些一百个数字"}
+{"endpoint": "ref-08", "id": "4", "repeat": 5, "prompt": "Name one random color. Answer with one word only.", "response": "Blue"}
+{"endpoint": "ref-04", "id": "5", "repeat": 5, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "Randomly choose one of the numbers 1 to 100."}
+{"endpoint": "ref-05", "id": "5", "repeat": 5, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "今天，我们第一天，"}
+{"endpoint": "ref-06", "id": "5", "repeat": 5, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "[1]\n\nI'll select a random number between 1 and "}
+{"endpoint": "ref-07", "id": "5", "repeat": 5, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "Sure, here's a random number from 1 to 100:"}
+{"endpoint": "ref-08", "id": "5", "repeat": 5, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "我们可以用如下逻辑表"}
+{"endpoint": "ref-09", "id": "5", "repeat": 5, "prompt": "随机选择一个1到100之间的整数。只回答数字。", "response": "Sure, I can help you with that. What's the first number you want"}
+{"endpoint": "ref-01", "id": "0", "repeat": 6, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-02", "id": "0", "repeat": 6, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-03", "id": "0", "repeat": 6, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-04", "id": "0", "repeat": 6, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "101."}
+{"endpoint": "ref-05", "id": "0", "repeat": 6, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1."}
+{"endpoint": "ref-06", "id": "0", "repeat": 6, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1"}
+{"endpoint": "ref-07", "id": "0", "repeat": 6, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "I am sorry, I am unable to pick a random number between 1 and"}
+{"endpoint": "ref-08", "id": "0", "repeat": 6, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "31.25."}
+{"endpoint": "ref-09", "id": "0", "repeat": 6, "prompt": "Pick a random number between 1 and 100. Answer with only the number.", "response": "1234567890123456"}
+{"endpoint": "ref-01", "id": "1", "repeat": 6, "prompt": "Name one random animal. Answer with one word only.", "response": "Mammal"}
+{"endpoint": "ref-02", "id": "1", "repeat": 6, "prompt": "Name one random animal. Answer with one word only.", "response": "Arachnid."}
+{"endpoint": "ref-03", "id": "1", "repeat": 6, "prompt": "Name one random animal. Answer with one word only.", "response": "One random animal is a zebra."}
+{"endpoint": "ref-04", "id": "1", "repeat": 6, "prompt": "Name one random animal. Answer with one word only.", "response": "Cat!"}
+{"endpoint": "ref-05", "id": "1", "repeat": 6, "prompt": "Name one random animal. Answer with one word only.", "response": "Animal"}
+{"endpoint": "ref-06", "id": "1", "repeat": 6, "prompt": "Name one random animal. Answer with one word only.", "response": "Elephant"}
+{"endpoint": "ref-07", "id": "1", "repeat": 6, "prompt": "Name one random animal. Answer with one word only.", "response": "Wildlife. Animal. Wild. Wild animals. Wildlife is everywhere. Wild animals"}
+{"endpoint": "ref-08", "id": "1", "repeat": 6, "prompt": "Name one random animal. Answer with one word only.", "response": "A **Bird!"}
+{"endpoint": "ref-09", "id": "1", "repeat": 6, "prompt": "Name one random animal. Answer with one word only.", "response": "Giraffe."}
+{"endpoint": "ref-01", "id": "2", "repeat": 6, "prompt": "Pick a random number between 1 and 10. Answer with only the number.", "response": "1"}
